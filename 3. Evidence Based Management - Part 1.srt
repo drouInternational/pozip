@@ -1,0 +1,407 @@
+1
+00:00:02,990 --> 00:00:09,050
+For your exam, besides reading and understanding this cronkhite, you must do the same for the evidence
+
+2
+00:00:09,050 --> 00:00:10,630
+based management guide.
+
+3
+00:00:10,950 --> 00:00:17,760
+Fortunately, it is short just 11 pages, but there will be a few or several questions on the examination.
+
+4
+00:00:18,200 --> 00:00:19,940
+And of course, you need to be prepared.
+
+5
+00:00:20,150 --> 00:00:25,000
+The purpose of this lecture is to point your attention to the most important areas in the guide.
+
+6
+00:00:25,220 --> 00:00:26,750
+So let's read.
+
+7
+00:00:28,850 --> 00:00:35,030
+Evidence based management guide how to continuously improve business results when measuring business
+
+8
+00:00:35,030 --> 00:00:37,790
+value and using empirical management.
+
+9
+00:00:40,720 --> 00:00:48,340
+Overview organizations adopting agile product delivery practices can easily lose sight of their real
+
+10
+00:00:48,340 --> 00:00:55,030
+goal of improving the value they deliver by focusing on improving activities and outputs instead of
+
+11
+00:00:55,210 --> 00:00:56,620
+business outcomes.
+
+12
+00:00:57,220 --> 00:01:01,030
+Agile is a means to an end, not the end itself.
+
+13
+00:01:01,210 --> 00:01:06,460
+The whole point of adopting agile practices is to improve business performance.
+
+14
+00:01:07,000 --> 00:01:15,430
+When organizations lose sight of this, managers ask questions that seem sensible but might create unintended
+
+15
+00:01:15,550 --> 00:01:18,020
+and undesirable consequences.
+
+16
+00:01:18,190 --> 00:01:20,410
+Some examples of such questions are.
+
+17
+00:01:22,500 --> 00:01:27,750
+Is built automation present, are code standards or conventions being met?
+
+18
+00:01:28,260 --> 00:01:33,210
+What is the quality level of code artist first practices being used?
+
+19
+00:01:33,580 --> 00:01:35,970
+EU velocity increasing.
+
+20
+00:01:36,180 --> 00:01:38,870
+Our developers integrating the code frequently.
+
+21
+00:01:39,090 --> 00:01:40,080
+How frequently?
+
+22
+00:01:40,740 --> 00:01:44,520
+And I want to stop right here and make a few comments now.
+
+23
+00:01:45,330 --> 00:01:49,500
+For many people, these are just questions in bubbles, but there is much more than that.
+
+24
+00:01:49,500 --> 00:01:51,900
+For example, is team velocity increasing?
+
+25
+00:01:52,200 --> 00:01:57,870
+Well, this question derives from the fact that there are people who think or believe that velocity
+
+26
+00:01:58,080 --> 00:01:59,610
+is a measure of success.
+
+27
+00:02:00,210 --> 00:02:02,340
+And what was velocity, by the way?
+
+28
+00:02:02,340 --> 00:02:06,990
+Will you know that the development team is responsible for estimating the size of the PBIS?
+
+29
+00:02:07,230 --> 00:02:09,060
+A good practice is to use three points.
+
+30
+00:02:09,060 --> 00:02:12,720
+Three points are not mandatory, but do not worry about that for now.
+
+31
+00:02:13,050 --> 00:02:17,640
+Alisher, everything you need to know about scoring points in velocity, velocity, calculation in the
+
+32
+00:02:17,640 --> 00:02:17,940
+future.
+
+33
+00:02:17,940 --> 00:02:19,020
+Lecture for now.
+
+34
+00:02:19,200 --> 00:02:25,770
+Imagine for once the development team completes five PBIS each, PBI estimated with five story points.
+
+35
+00:02:25,770 --> 00:02:28,410
+So in total we have twenty five story points.
+
+36
+00:02:28,620 --> 00:02:32,910
+This is the development team's velocity during the next sprint.
+
+37
+00:02:33,060 --> 00:02:39,690
+If we complete PBIS worth thirty story points, we can say that the team's velocity increased by five
+
+38
+00:02:39,690 --> 00:02:40,470
+story points.
+
+39
+00:02:40,860 --> 00:02:41,370
+Great.
+
+40
+00:02:41,550 --> 00:02:45,660
+But does that mean we have delivered more value?
+
+41
+00:02:46,740 --> 00:02:52,380
+No, he does not mean that we simply do not know the correct answer here, would we?
+
+42
+00:02:52,560 --> 00:02:53,320
+It depends.
+
+43
+00:02:53,700 --> 00:02:55,740
+Can we use velocity as a measure of success?
+
+44
+00:02:56,340 --> 00:03:04,110
+No, we cannot velocity's about the speed at which the development team completes PBIS, but it does
+
+45
+00:03:04,110 --> 00:03:08,210
+not tell us if these PBIS will maximize the value of the product.
+
+46
+00:03:08,580 --> 00:03:11,490
+Be prepared for such a question on your exell.
+
+47
+00:03:12,670 --> 00:03:16,090
+Next, are developers integrating the calls frequently?
+
+48
+00:03:16,480 --> 00:03:20,580
+This is about the fact that code integration happens frequently during the sprint.
+
+49
+00:03:20,590 --> 00:03:20,860
+Why?
+
+50
+00:03:21,040 --> 00:03:25,570
+Because when the developers write a piece of called, you need to integrate it to the rest of the code
+
+51
+00:03:25,570 --> 00:03:27,220
+to see if it will work or not.
+
+52
+00:03:27,460 --> 00:03:32,530
+So when that's court integration, Heppell if happens frequently during the spring.
+
+53
+00:03:32,530 --> 00:03:34,440
+This is there is not an official event.
+
+54
+00:03:34,450 --> 00:03:35,890
+This is not an official event.
+
+55
+00:03:36,100 --> 00:03:40,990
+You know, code integration scrum doesn't tell us when to integrate the code.
+
+56
+00:03:41,380 --> 00:03:45,560
+We use the agile concept of continuous integration.
+
+57
+00:03:45,970 --> 00:03:47,520
+We'll talk more about that as well.
+
+58
+00:03:48,890 --> 00:03:51,410
+Next hour, test first practice is being used.
+
+59
+00:03:51,710 --> 00:03:52,990
+This one is good, I like it.
+
+60
+00:03:53,240 --> 00:03:58,260
+It refers to a practice called Test Driven Development, or TDD.
+
+61
+00:03:58,760 --> 00:04:00,020
+Yes, it's a good practice.
+
+62
+00:04:00,290 --> 00:04:01,880
+It does increase the quality of the.
+
+63
+00:04:02,080 --> 00:04:03,490
+But it's not mandatory strong.
+
+64
+00:04:03,530 --> 00:04:09,620
+By the way, TDD comes from extreme programming, which is one of the first, if not the first agile
+
+65
+00:04:09,620 --> 00:04:10,160
+framework.
+
+66
+00:04:10,730 --> 00:04:16,160
+In contrast to Scrum in XP, you will find many practices, for example, test driven development,
+
+67
+00:04:16,160 --> 00:04:21,760
+as I've said, pair programming, very, very famous collective called ownership.
+
+68
+00:04:21,770 --> 00:04:24,840
+It's more like a rule also refactoring.
+
+69
+00:04:24,840 --> 00:04:29,330
+And so all these are not mandatory in Akron, but often use.
+
+70
+00:04:30,320 --> 00:04:37,130
+As you understand by now, this has become more abstract and flexible in the same time, obviously,
+
+71
+00:04:37,130 --> 00:04:40,640
+the creators want to make it easy for companies to implement.
+
+72
+00:04:41,120 --> 00:04:47,510
+So test driven development programming, refactoring, great practices, widely used, but again, not
+
+73
+00:04:47,510 --> 00:04:53,080
+mandatory scrum developers may choose something else, and that is OK with crime.
+
+74
+00:04:53,900 --> 00:04:59,330
+Well, I do not think there is any substitute for concrete factory, but we will talk about that a bit
+
+75
+00:04:59,330 --> 00:04:59,660
+later.
+
+76
+00:05:00,990 --> 00:05:06,010
+The next question is built automation, president, quality of cold, cold standards.
+
+77
+00:05:06,360 --> 00:05:13,560
+These questions are not wrong, but they're not the most important ones where you talk about measuring
+
+78
+00:05:13,560 --> 00:05:14,130
+value.
+
+79
+00:05:14,550 --> 00:05:15,270
+And if you think.
+
+80
+00:05:15,450 --> 00:05:19,690
+But, Vladimír, quality of the cold, this relates to value.
+
+81
+00:05:19,710 --> 00:05:23,630
+If the court is right and well, free of bugs and users would be happy.
+
+82
+00:05:24,450 --> 00:05:25,770
+And here's my answer.
+
+83
+00:05:26,010 --> 00:05:28,770
+Yes, you have a point, but.
+
+84
+00:05:29,790 --> 00:05:34,500
+If the features that were used in this case, it will deliver zero value.
+
+85
+00:05:36,650 --> 00:05:42,860
+Next, while the answers to these questions are interesting, they do not help an organization improve
+
+86
+00:05:42,860 --> 00:05:49,580
+the value it delivers or its ability to deliver value monitoring, only that their use of practices
+
+87
+00:05:49,580 --> 00:05:52,890
+does not provide the best evidence of their effectiveness.
+
+88
+00:05:53,060 --> 00:05:58,190
+For example, tracking a development whose velocity says nothing about whether the team is actually
+
+89
+00:05:58,370 --> 00:06:04,380
+delivering something that is useful to customers or users without measuring value.
+
+90
+00:06:04,670 --> 00:06:10,220
+The success of any agile initiative is based on nothing more than intuition and assumption.
+
+91
+00:06:10,820 --> 00:06:18,890
+In contrast, the evidence based management EBM approach measures value delivered is evidence of organizational
+
+92
+00:06:18,890 --> 00:06:23,900
+agility and provides ways to measure and improve the ability to deliver value.
+
+93
+00:06:24,230 --> 00:06:31,070
+This approach enables organizations to make rational, fact based decisions, elevating conversations
+
+94
+00:06:31,070 --> 00:06:36,500
+from preferences in opinions to empirical evidence, logic and insight.
+
+95
+00:06:37,460 --> 00:06:42,140
+OK, let's recap now and we will continue with this guide in the next lecture.
+
+96
+00:06:43,180 --> 00:06:49,630
+Velocity is not a measure of success called integration happens frequently during the sprint test driven
+
+97
+00:06:49,630 --> 00:06:52,240
+development pair programming and user stories are good.
+
+98
+00:06:52,240 --> 00:06:57,430
+Practice is often used, but they are not mandatory in Skrull EBM approach measures.
+
+99
+00:06:57,430 --> 00:07:04,510
+Value delivered is evidence of organizational agility in provides ways to measure and improve the ability
+
+100
+00:07:04,690 --> 00:07:05,650
+to deliver value.
+
+101
+00:07:06,100 --> 00:07:07,780
+Thank you for watching in state.
+
+102
+00:07:07,930 --> 00:07:08,710
+Purposeful.

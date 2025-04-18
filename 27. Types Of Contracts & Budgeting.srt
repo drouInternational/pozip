@@ -1,0 +1,287 @@
+1
+00:00:02,500 --> 00:00:06,400
+In this lecture, we will talk about contracts and budgets.
+
+2
+00:00:07,360 --> 00:00:13,690
+First of all, there are different types of contracts, but I want to present to that are the most widely
+
+3
+00:00:13,690 --> 00:00:14,020
+used.
+
+4
+00:00:14,550 --> 00:00:20,530
+Of course, every organization has its own budgeting process, but its product owners, we should know
+
+5
+00:00:20,530 --> 00:00:21,750
+how budgeting works.
+
+6
+00:00:22,810 --> 00:00:30,130
+We want a positive airway, we should do budget revisions once for Sprint, we should be able to explain
+
+7
+00:00:30,130 --> 00:00:32,420
+to the stakeholders where the money goes.
+
+8
+00:00:32,830 --> 00:00:39,660
+The first type of contract is a fixed price and a second is time and material.
+
+9
+00:00:40,090 --> 00:00:44,230
+Yes, you might see variations of these, but generally here is how it works.
+
+10
+00:00:45,390 --> 00:00:51,510
+With fixed price, the customer knows how much it would cost to develop the software product.
+
+11
+00:00:51,840 --> 00:00:52,680
+OK, that's good.
+
+12
+00:00:52,680 --> 00:00:58,770
+But if you have to make an offer to the customer, how would you calculate that fixed price?
+
+13
+00:00:59,430 --> 00:01:01,440
+Well, you need a detailed plan.
+
+14
+00:01:01,590 --> 00:01:04,620
+You need to know exactly the scope of the project.
+
+15
+00:01:04,980 --> 00:01:07,040
+That means a lot of upfront planning.
+
+16
+00:01:07,350 --> 00:01:08,750
+And was the problem with that?
+
+17
+00:01:09,240 --> 00:01:12,930
+Well, to start with, you know that this is not how agile works.
+
+18
+00:01:13,230 --> 00:01:15,210
+We're building the product incrementally.
+
+19
+00:01:15,240 --> 00:01:16,980
+We rely on feedback to adapt.
+
+20
+00:01:17,340 --> 00:01:20,520
+This is how we built the right product, not just any product.
+
+21
+00:01:20,730 --> 00:01:25,860
+So a fixed price contract is typical for the waterfall model is not fragile.
+
+22
+00:01:27,080 --> 00:01:32,590
+But is it is it still possible to have a fixed price contract and use the scrum framework?
+
+23
+00:01:32,690 --> 00:01:36,080
+Of course, any other ideal, a framework that exists?
+
+24
+00:01:36,860 --> 00:01:38,300
+And the answer is yes.
+
+25
+00:01:38,900 --> 00:01:43,010
+Sometimes as property owners, we do have a say in the budgeting process.
+
+26
+00:01:43,310 --> 00:01:44,540
+Sometimes we don't.
+
+27
+00:01:44,540 --> 00:01:49,940
+Nobody asks us and other times we ask for a fixed budget.
+
+28
+00:01:50,720 --> 00:01:55,790
+What do we do when we are asked to to to to say how much it would cost?
+
+29
+00:01:56,630 --> 00:02:04,460
+Some experts suggest that we at a price before we inflate the price, so to speak, because we know
+
+30
+00:02:04,460 --> 00:02:07,040
+that there will be a change of scope.
+
+31
+00:02:07,640 --> 00:02:13,310
+We know that the customer may request features more features after the releases and so on.
+
+32
+00:02:13,970 --> 00:02:20,120
+For example, in the book that I've been often citing here, the professional product owner author suggests
+
+33
+00:02:20,120 --> 00:02:20,480
+that.
+
+34
+00:02:21,750 --> 00:02:26,500
+We increase the cost of the spring by an extra member or two for development.
+
+35
+00:02:27,120 --> 00:02:29,250
+This is for risk mitigation.
+
+36
+00:02:30,020 --> 00:02:34,820
+And once we know the cost of the sprint and the potential velocity of the development team, we can
+
+37
+00:02:34,820 --> 00:02:37,920
+determine the number of sprints, for example, minutes.
+
+38
+00:02:38,150 --> 00:02:42,100
+Let's say, for instance, each one costs 100000 dollars.
+
+39
+00:02:42,110 --> 00:02:46,640
+That equals one million dollars for the product or for the project.
+
+40
+00:02:46,790 --> 00:02:53,480
+Another important point in the calculation here is that after the final release, there is a maintenance
+
+41
+00:02:53,480 --> 00:02:54,020
+period.
+
+42
+00:02:54,890 --> 00:02:57,610
+We don't know how long, but we should know about it.
+
+43
+00:02:57,620 --> 00:03:03,020
+We should have an idea and we should include that in the cost, even though we can have a fixed price
+
+44
+00:03:03,020 --> 00:03:05,440
+contract and be agile in the same way.
+
+45
+00:03:05,690 --> 00:03:07,450
+To some extent, yes.
+
+46
+00:03:07,540 --> 00:03:11,450
+You see that fixed price and scope limit agility.
+
+47
+00:03:12,560 --> 00:03:20,060
+Now, the other type of contract is time and material, basically we get paid by the time we spent developing
+
+48
+00:03:20,060 --> 00:03:20,640
+the product.
+
+49
+00:03:21,050 --> 00:03:26,930
+The good news here is that we do not need to the formula in the scope is not fixed.
+
+50
+00:03:27,170 --> 00:03:33,260
+We discovered the scope of the product by building and releasing increments, listening to feedback
+
+51
+00:03:33,260 --> 00:03:34,400
+from the marketplace.
+
+52
+00:03:34,700 --> 00:03:40,480
+In other words, this contract type is best for strong time and material types of contracts.
+
+53
+00:03:41,090 --> 00:03:46,960
+They are also flexible in the sense that the customer may increase or decrease the budget as we go,
+
+54
+00:03:46,980 --> 00:03:51,820
+as they see the value being delivered, as they see the return on investment.
+
+55
+00:03:53,130 --> 00:03:58,700
+As you can see, when we have a fixed price contract, most of the risk is on the organization that
+
+56
+00:03:58,710 --> 00:03:59,690
+develops the product.
+
+57
+00:04:00,620 --> 00:04:08,090
+But when we have a time in material type of context, most of the risk is on the customer and it's more
+
+58
+00:04:08,090 --> 00:04:13,850
+a more balanced approach in terms of risk is called kept time in material that.
+
+59
+00:04:14,830 --> 00:04:21,490
+Now the organization gets paid, but the time spent developing the product, as with the normal time
+
+60
+00:04:21,550 --> 00:04:22,630
+and material contract type.
+
+61
+00:04:22,960 --> 00:04:29,050
+But here we have a cap and that cap limits the total amount of spent.
+
+62
+00:04:29,470 --> 00:04:34,150
+So the customer never pays more than the cap, even if the development continues.
+
+63
+00:04:35,470 --> 00:04:42,700
+You will not see types of contracts on your exam, but I believe it's important to know at least the
+
+64
+00:04:42,700 --> 00:04:43,470
+basics here.
+
+65
+00:04:44,580 --> 00:04:45,240
+Lest we get.
+
+66
+00:04:46,260 --> 00:04:51,940
+The product owner revises the budget at least once, faceprint to make sure value is being delivered.
+
+67
+00:04:51,960 --> 00:04:53,490
+Generally, that's the end of the.
+
+68
+00:04:54,420 --> 00:05:00,630
+A fixed price contract type with fixed scope means that upfront planning is required, which is against
+
+69
+00:05:00,960 --> 00:05:02,070
+the original beliefs.
+
+70
+00:05:02,610 --> 00:05:08,450
+Fixed price contracts limit agility, but it is still possible to execute product development.
+
+71
+00:05:08,940 --> 00:05:13,950
+The timing material contract type is grateful, strong and agile in general.
+
+72
+00:05:15,500 --> 00:05:17,600
+Thank you for watching and stay purposeful.

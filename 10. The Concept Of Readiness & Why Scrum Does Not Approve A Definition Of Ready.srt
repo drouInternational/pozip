@@ -1,0 +1,303 @@
+1
+00:00:01,680 --> 00:00:08,910
+As I said in the previous lecture, the product owner captures high level ideas and puts them into product
+
+2
+00:00:08,910 --> 00:00:09,490
+backlog.
+
+3
+00:00:09,570 --> 00:00:12,580
+Nowadays, we use software like Djura.
+
+4
+00:00:12,600 --> 00:00:16,740
+This is one example, but many people still use sticky notes on a market.
+
+5
+00:00:16,800 --> 00:00:17,340
+That's OK.
+
+6
+00:00:17,370 --> 00:00:18,780
+It makes it very simple.
+
+7
+00:00:19,840 --> 00:00:25,780
+These sticky notes are the product backlog items, they are different in size, of course, and other
+
+8
+00:00:25,780 --> 00:00:29,370
+agile frameworks have names for the different sizes.
+
+9
+00:00:29,950 --> 00:00:35,680
+For example, the smallest item you can have is a task or you can also hear a subtask.
+
+10
+00:00:36,340 --> 00:00:38,350
+A bigger one is the story.
+
+11
+00:00:38,740 --> 00:00:44,110
+A bigger one is an epic and it's bigger than an epic is the theme.
+
+12
+00:00:44,620 --> 00:00:50,260
+Let's say you have an epic and you break it down into three user stories.
+
+13
+00:00:50,480 --> 00:00:54,940
+Then you break down these user stories into 13 tasks.
+
+14
+00:00:54,940 --> 00:00:58,120
+For example, a theme could be finalists epic.
+
+15
+00:00:58,120 --> 00:01:01,480
+One could be invoicing story one.
+
+16
+00:01:01,780 --> 00:01:07,690
+If we use user stories, of course, the format, it would be as a user, I want to be able to create
+
+17
+00:01:07,690 --> 00:01:08,560
+an invoice.
+
+18
+00:01:08,830 --> 00:01:15,990
+And then we have all the tasks related to creating an invoice design of the page at invoice bottom.
+
+19
+00:01:16,150 --> 00:01:17,620
+What fields will be there?
+
+20
+00:01:17,620 --> 00:01:23,860
+Agreed with all invoices, filters by date, filter filters, big companies, amounts, currencies and
+
+21
+00:01:23,860 --> 00:01:24,840
+much, much more.
+
+22
+00:01:25,120 --> 00:01:28,090
+But in scrum, we are not required to use these names.
+
+23
+00:01:29,410 --> 00:01:34,970
+What you have to know is that we are right, pbis, we refined him during the sprints, the development
+
+24
+00:01:35,010 --> 00:01:42,670
+embraced him down to tasks screwed up or calls that decomposing an item to a small unit of work.
+
+25
+00:01:43,720 --> 00:01:47,350
+For your exam, you have to remember a few key points here.
+
+26
+00:01:48,590 --> 00:01:54,770
+Scrambled egg is against having a definition of free, not only it's not mandatory to have a definition
+
+27
+00:01:54,770 --> 00:01:57,740
+of them, but also they are against it.
+
+28
+00:01:58,400 --> 00:01:59,690
+And I'll explain the moment.
+
+29
+00:01:59,690 --> 00:02:03,190
+On the other hand, a common characteristic of successful sometimes.
+
+30
+00:02:03,590 --> 00:02:09,830
+And, you know, we spoke in the previous lecture to have many items on top of the product backlog,
+
+31
+00:02:10,470 --> 00:02:13,430
+maybe four to Springsure, had maybe three sprints ahead.
+
+32
+00:02:14,300 --> 00:02:16,880
+But, you know, not that many items.
+
+33
+00:02:16,890 --> 00:02:18,940
+So it becomes waste.
+
+34
+00:02:19,820 --> 00:02:25,400
+And here it gets a little bit confusing because we do have a concept of freakiness.
+
+35
+00:02:26,330 --> 00:02:29,950
+We want the items on top of the product back to be ready for development.
+
+36
+00:02:30,380 --> 00:02:31,010
+That means.
+
+37
+00:02:32,120 --> 00:02:38,150
+First, they can fit into l'esprit, that's the first very basic requirement in second, they are clear.
+
+38
+00:02:38,600 --> 00:02:43,700
+We can also say they refined the development team understands them, but we do not have a definition
+
+39
+00:02:43,700 --> 00:02:44,090
+of rape.
+
+40
+00:02:44,240 --> 00:02:44,810
+Here is why.
+
+41
+00:02:45,590 --> 00:02:51,650
+When the product owner orders the items, he or she might put an item on the very top of the product
+
+42
+00:02:51,650 --> 00:02:51,920
+back.
+
+43
+00:02:51,920 --> 00:02:57,920
+Look, that item would bring a lot of value, but unfortunately it is not ready for development.
+
+44
+00:02:59,110 --> 00:03:01,360
+What should the developers do or do you think?
+
+45
+00:03:04,540 --> 00:03:11,130
+They should still selected for the sprint backlog and they will refine it during this during the sprint,
+
+46
+00:03:11,650 --> 00:03:18,160
+if we had an official definition of freedom that would force the developer to keep that item in the
+
+47
+00:03:18,160 --> 00:03:24,400
+next one in order know the next one is ready for development, for example, but it may not bring as
+
+48
+00:03:24,400 --> 00:03:26,830
+much fun is the first one that they skipped.
+
+49
+00:03:27,050 --> 00:03:32,030
+Now, this is the main reason and it goes back to how we order the product back.
+
+50
+00:03:32,050 --> 00:03:37,270
+Look, we do not order it based on the size of the items or based on radius.
+
+51
+00:03:37,420 --> 00:03:43,310
+You know precisely how we order it in a way that maximizes the value the product delivers.
+
+52
+00:03:43,480 --> 00:03:49,990
+So for your example, if you see a question in the lines of the items on top of the product, backlog
+
+53
+00:03:50,020 --> 00:03:52,960
+must be ready based on the definition of true or false.
+
+54
+00:03:54,130 --> 00:04:02,020
+You should pick forced, right, because the definition of radios does not exist in what exists is the
+
+55
+00:04:02,020 --> 00:04:03,310
+mindset, the concept.
+
+56
+00:04:03,340 --> 00:04:06,150
+Yes, we want the items on top to be ready.
+
+57
+00:04:06,490 --> 00:04:10,380
+We do our best for refinement, but that's all it is.
+
+58
+00:04:10,390 --> 00:04:11,540
+We are on the topic.
+
+59
+00:04:11,650 --> 00:04:18,490
+I want to remind you that on average, the items in the spring that look are smaller items on the top
+
+60
+00:04:18,490 --> 00:04:24,130
+of the product backlog in the items on the top of the product backlog are smaller than those on the
+
+61
+00:04:24,130 --> 00:04:24,670
+bottom.
+
+62
+00:04:25,300 --> 00:04:27,930
+This, again, we are talking on average here.
+
+63
+00:04:27,940 --> 00:04:30,250
+This is because we are decomposing the items.
+
+64
+00:04:30,250 --> 00:04:31,480
+We are making them clear.
+
+65
+00:04:31,660 --> 00:04:34,420
+Just think about breaking the items down.
+
+66
+00:04:34,420 --> 00:04:37,540
+If you see a question related to this related to sizes.
+
+67
+00:04:38,630 --> 00:04:45,980
+Now, let's recap product backlog readiness refers to the concept of items that are immediately actionable
+
+68
+00:04:45,980 --> 00:04:51,110
+or simply set ready for development, a definition of ready is not accepted.
+
+69
+00:04:51,140 --> 00:04:53,060
+Describe the product owners.
+
+70
+00:04:53,060 --> 00:05:00,050
+Try to have items on top of the product backlog if the permit backlog items on top of the product backlog
+
+71
+00:05:00,050 --> 00:05:01,560
+are not ready.
+
+72
+00:05:02,240 --> 00:05:06,080
+The developers have to pull them to the sprint backlog anyway.
+
+73
+00:05:08,310 --> 00:05:11,250
+In the next lecture, we will do a recap of the last four lectures.
+
+74
+00:05:11,460 --> 00:05:16,450
+After that, a quick quiz and then we will move to the definition of dumb.
+
+75
+00:05:16,740 --> 00:05:17,610
+Thank you for watching.
+
+76
+00:05:17,940 --> 00:05:19,200
+State Purposeful.

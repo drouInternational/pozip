@@ -1,0 +1,539 @@
+1
+00:00:02,480 --> 00:00:09,080
+As a product owner, you are responsible for creating and ordering of the product back, look, you
+
+2
+00:00:09,080 --> 00:00:13,690
+order the product backlog items to maximize the value of the product delivers.
+
+3
+00:00:14,090 --> 00:00:17,660
+This is considered product backlog refinement in this video.
+
+4
+00:00:17,810 --> 00:00:23,060
+I want to focus on the product backlog items PBIS in their attributes.
+
+5
+00:00:24,900 --> 00:00:31,560
+But first, as a product owner, where do you get ideas for the PBS, for those PBIS, there are a few
+
+6
+00:00:31,560 --> 00:00:32,150
+sources.
+
+7
+00:00:32,160 --> 00:00:34,360
+The first one is the customer, of course.
+
+8
+00:00:34,620 --> 00:00:38,420
+Second, there might be representatives of the end users.
+
+9
+00:00:38,460 --> 00:00:40,140
+You get ideas from them as well.
+
+10
+00:00:40,450 --> 00:00:42,090
+Other people will emerge.
+
+11
+00:00:42,090 --> 00:00:45,360
+And certainly really, for example, the development team can write them.
+
+12
+00:00:45,600 --> 00:00:47,250
+You already know that this is OK.
+
+13
+00:00:47,250 --> 00:00:49,770
+The product owner can delegate that activity.
+
+14
+00:00:50,670 --> 00:00:56,310
+But while gathering requirements, you don't repeat what the customer says and write.
+
+15
+00:00:56,310 --> 00:01:01,650
+It is a product backlog item in the product that no, you need to analyze the information.
+
+16
+00:01:01,800 --> 00:01:03,330
+You need to ask why.
+
+17
+00:01:04,290 --> 00:01:10,260
+What problem does that future solve, because many times you and the development team, you will be
+
+18
+00:01:10,260 --> 00:01:16,020
+able to come up with a better solution to a specific problem than the solution proposed by the customer.
+
+19
+00:01:16,710 --> 00:01:22,160
+And given the fact that there's a product on how you engage with stakeholders, customers included,
+
+20
+00:01:22,440 --> 00:01:27,270
+you can propose a solution, explain the benefits of doing it that way and move on.
+
+21
+00:01:27,420 --> 00:01:31,380
+Most of the time you would notice that the customer will be OK with that.
+
+22
+00:01:32,280 --> 00:01:36,810
+Now let's zoom in the product battle items.
+
+23
+00:01:37,650 --> 00:01:42,990
+If you remember, we said that one characteristic is that the product items are non-technical.
+
+24
+00:01:43,410 --> 00:01:48,240
+The product owner and the stakeholders can discuss them easily, either PBIS or technical.
+
+25
+00:01:48,480 --> 00:01:54,240
+That would create a barrier and the customer wouldn't be able to understand exactly what we've done
+
+26
+00:01:54,240 --> 00:01:55,100
+during the sprint.
+
+27
+00:01:55,680 --> 00:01:59,820
+And this may be a problem with providing us with feedback.
+
+28
+00:02:00,210 --> 00:02:00,750
+Can we?
+
+29
+00:02:00,810 --> 00:02:03,170
+We do not we do not want that to happen.
+
+30
+00:02:03,180 --> 00:02:05,820
+So we really strive to keep the PBX.
+
+31
+00:02:07,380 --> 00:02:14,970
+Remember, when the developers break down the PBIS into tasks, these tasks, these tasks become technical.
+
+32
+00:02:15,060 --> 00:02:17,490
+After all, the developers will be writing code.
+
+33
+00:02:17,730 --> 00:02:23,580
+They would talk about installing an external database if you see assess scripting languages.
+
+34
+00:02:23,580 --> 00:02:29,310
+And so another characteristic is that we try to keep the items independent of each other.
+
+35
+00:02:29,550 --> 00:02:35,220
+And the whole purpose here is that if there are too many dependencies, the product owner would have
+
+36
+00:02:35,220 --> 00:02:41,570
+a hard time ordering the product backlog so that we can morph CBIS to eliminate the dependencies.
+
+37
+00:02:41,570 --> 00:02:46,590
+Sometimes we cannot do that, but we always strive to have independent items.
+
+38
+00:02:48,010 --> 00:02:54,280
+These two characteristics, non-technical and independent PBIS, come from another ARGEL framework called
+
+39
+00:02:54,400 --> 00:02:56,830
+Extreme Programming, or EXPE.
+
+40
+00:02:57,160 --> 00:03:02,530
+You should know that these two characteristics are not mandatory instrument, but is a product owner.
+
+41
+00:03:02,530 --> 00:03:05,710
+You should know them and you should try to apply them to your work.
+
+42
+00:03:06,380 --> 00:03:10,300
+Next, I want to talk about the attributes of the PBS first description.
+
+43
+00:03:10,600 --> 00:03:13,300
+Scrum does not have a template that we can use.
+
+44
+00:03:13,810 --> 00:03:19,930
+They do not restrict us on how to write the description of the PBIS, but the most common way is to
+
+45
+00:03:19,930 --> 00:03:21,600
+use user stories.
+
+46
+00:03:22,060 --> 00:03:24,880
+And here is a template as a user type.
+
+47
+00:03:25,030 --> 00:03:26,950
+I want to go so that.
+
+48
+00:03:27,100 --> 00:03:28,950
+Reesa, let me give you an example.
+
+49
+00:03:29,200 --> 00:03:34,440
+As a user, I want to be able to schedule an appointment and be notified one day.
+
+50
+00:03:34,450 --> 00:03:35,290
+Universal.
+
+51
+00:03:35,290 --> 00:03:41,650
+I do not forget as an administrator, I want to be able to insert text in video testimonials from happy
+
+52
+00:03:41,650 --> 00:03:44,020
+customers or my testimonials page.
+
+53
+00:03:44,320 --> 00:03:49,150
+By the way, I give you more user for examples a bit later, but that's the whole idea.
+
+54
+00:03:49,330 --> 00:03:52,770
+This is the most common way to write a non-technical description.
+
+55
+00:03:54,090 --> 00:04:01,890
+The next attribute size in the past, it was called estimation that since the stronger it is less prescriptive,
+
+56
+00:04:01,890 --> 00:04:09,360
+the word size appeals to more industries in the word estimation refers more to the IT industry.
+
+57
+00:04:09,540 --> 00:04:16,110
+Again, Scrum doesn't tell us how to size the PBIS or what unit of measurement to use, for example,
+
+58
+00:04:16,110 --> 00:04:18,650
+story points or Menelaus guilty.
+
+59
+00:04:19,050 --> 00:04:24,050
+And so in a few videos, I'll provide you with more details from three points.
+
+60
+00:04:24,060 --> 00:04:29,190
+But for now, I want to ask you, do you remember estimates of the size of the PBIS?
+
+61
+00:04:29,580 --> 00:04:32,360
+Who does the size of the PBIS?
+
+62
+00:04:36,010 --> 00:04:39,080
+I'll be happy if you've answered the developers.
+
+63
+00:04:39,670 --> 00:04:43,740
+The developers who will be doing the work are responsible for the sizing.
+
+64
+00:04:43,960 --> 00:04:49,570
+Moreover, they choose how many fish to pull from the product back, look to the spring back.
+
+65
+00:04:49,570 --> 00:04:56,140
+Look, if they've estimated they can do three pbis this print, the perfect plan doesn't push them and
+
+66
+00:04:56,140 --> 00:04:57,670
+says, no, no, no, that's not enough.
+
+67
+00:04:57,670 --> 00:04:59,750
+Let's put two more pubis in the street.
+
+68
+00:05:00,070 --> 00:05:01,900
+This is against this current rules.
+
+69
+00:05:02,410 --> 00:05:06,970
+And a quick reminder, we do not have a development team anymore.
+
+70
+00:05:07,330 --> 00:05:14,110
+We have members of this committee or code developers, those also the people who create a usable increment.
+
+71
+00:05:15,170 --> 00:05:21,320
+Next, we have author of the PBS is, you know, by now the product owner orders the items in the product
+
+72
+00:05:21,320 --> 00:05:28,820
+backlog in a way that maximizes the value the product delivers, but they also consider cost risk and
+
+73
+00:05:28,820 --> 00:05:29,570
+dependencies.
+
+74
+00:05:30,380 --> 00:05:33,710
+These are the three attributes Cronkite provides.
+
+75
+00:05:33,950 --> 00:05:40,520
+But it is important to remember that depending on the domain of work, these attributes might be different.
+
+76
+00:05:41,570 --> 00:05:47,420
+I've already gave you an example with the words size and estimation in the past, there was a fourth
+
+77
+00:05:47,630 --> 00:05:49,210
+attribute value.
+
+78
+00:05:49,760 --> 00:05:56,690
+We do not have any more, but I would like to share something with you about it because I believe it
+
+79
+00:05:56,690 --> 00:05:58,400
+will be useful to practice.
+
+80
+00:05:58,410 --> 00:06:04,310
+First, some strong teams use value points to estimate the value the people will deliver.
+
+81
+00:06:04,700 --> 00:06:08,520
+This concept is similar to the story points in the old days of Scrum.
+
+82
+00:06:08,540 --> 00:06:14,830
+This is how we order the items, the product backlog, the backlog item with the most other points.
+
+83
+00:06:15,500 --> 00:06:17,590
+These items go on top of the product backlog.
+
+84
+00:06:17,600 --> 00:06:24,320
+But the problem here is that we look at the product backlog items and their value individually and not
+
+85
+00:06:24,320 --> 00:06:24,950
+as a whole.
+
+86
+00:06:25,430 --> 00:06:30,170
+PBI number one, 300000 points, PBI number two to two hundred and fifty valid points.
+
+87
+00:06:30,720 --> 00:06:32,690
+Number three, one hundred and fifty valid points.
+
+88
+00:06:32,900 --> 00:06:33,950
+That's the order.
+
+89
+00:06:34,460 --> 00:06:40,750
+The second and current approach is to order the items in a way that maximizes the value of the product.
+
+90
+00:06:40,760 --> 00:06:45,350
+And I hope I do not confuse you here, but there is a difference in the approaches.
+
+91
+00:06:46,270 --> 00:06:53,050
+For example, I can have a small task, PBI that, when released, would generate a lot of value because
+
+92
+00:06:53,050 --> 00:06:56,750
+it enhances an existing feature and existing functionality.
+
+93
+00:06:57,250 --> 00:06:59,100
+In this case, I'm looking at the whole.
+
+94
+00:06:59,440 --> 00:07:04,260
+But if I look at that PBI separately myself, well, it's not that big of a deal.
+
+95
+00:07:04,270 --> 00:07:05,950
+It would not be that valuable.
+
+96
+00:07:05,960 --> 00:07:12,160
+Maybe I would put 50 valid points and it would be somewhere lower in the lower position in the product
+
+97
+00:07:12,160 --> 00:07:12,670
+backlog.
+
+98
+00:07:12,940 --> 00:07:17,140
+Lastly, what items can you put in the product backlog?
+
+99
+00:07:17,860 --> 00:07:20,370
+The regular feature is this is a normal thing to do.
+
+100
+00:07:21,250 --> 00:07:23,620
+You will try to make user stories, for example.
+
+101
+00:07:23,890 --> 00:07:27,430
+But what about no functional features or requirements?
+
+102
+00:07:28,800 --> 00:07:36,240
+These have to do with the way other features work, examples of non-functional features will be security,
+
+103
+00:07:36,480 --> 00:07:42,570
+performance, speed, reliability, maintainability, and what is a learn in the lecture about the definition
+
+104
+00:07:42,570 --> 00:07:47,910
+of then it's a good idea to put such requirements in the checklist in the definition of the checklist,
+
+105
+00:07:47,910 --> 00:07:50,030
+because these are not functional features.
+
+106
+00:07:50,160 --> 00:07:52,650
+They apply to all other features.
+
+107
+00:07:53,250 --> 00:07:55,770
+They apply to the way all other features work.
+
+108
+00:07:56,550 --> 00:08:01,820
+But for your example, you should know that you can put such items in the product backlog as well.
+
+109
+00:08:02,990 --> 00:08:03,950
+Time to recap.
+
+110
+00:08:06,920 --> 00:08:11,660
+The three main attributes of the piece are description, size and order.
+
+111
+00:08:12,080 --> 00:08:19,430
+In the past, we had value is a Ford attribute, but it has been removed from the strongest attributes,
+
+112
+00:08:19,430 --> 00:08:21,620
+often very with the domain of work.
+
+113
+00:08:22,250 --> 00:08:25,220
+The PBI should be non-technical and independent.
+
+114
+00:08:25,460 --> 00:08:28,770
+This is not mandatory in school, but it's good for your practice.
+
+115
+00:08:29,090 --> 00:08:35,030
+A common way to write the description of EPB is to use user stories not mandatory in scrum.
+
+116
+00:08:35,390 --> 00:08:41,240
+A common way to estimate the size of a PBI is to use story points not mandatory in scrum.
+
+117
+00:08:41,450 --> 00:08:46,700
+A common way to estimate the value of a PBI is to use value points again, not mandatory.
+
+118
+00:08:46,700 --> 00:08:53,150
+In Scrum, the product owner orders the items in a way that maximizes the value of the product in more
+
+119
+00:08:53,150 --> 00:08:56,600
+specifically value, cost, risk and dependencies.
+
+120
+00:08:57,320 --> 00:09:02,090
+Non-functional features can be added to the product backlog and the definition of dumb.
+
+121
+00:09:04,500 --> 00:09:09,990
+Before we go to the next lecture, you might ask Vladimir most of the things you've shared with us in
+
+122
+00:09:09,990 --> 00:09:12,660
+this lecture are non mandatory strong.
+
+123
+00:09:13,540 --> 00:09:14,710
+Why should we bother?
+
+124
+00:09:14,830 --> 00:09:17,620
+Obviously, there is more than one way to do things.
+
+125
+00:09:17,800 --> 00:09:22,110
+For example, estimate you can use three points, you can use man hours and so on.
+
+126
+00:09:22,510 --> 00:09:23,770
+And I want to address this.
+
+127
+00:09:23,770 --> 00:09:24,990
+I want to answer this question.
+
+128
+00:09:25,330 --> 00:09:31,220
+The reason is that you will see these practices and activities in your example.
+
+129
+00:09:32,100 --> 00:09:37,380
+And when you know them, when you know something is not mandatory or something is mandatory, this would
+
+130
+00:09:37,380 --> 00:09:40,720
+help you answer correctly and it will save you time.
+
+131
+00:09:41,220 --> 00:09:45,610
+For example, you see the product almost right, user stories and so on.
+
+132
+00:09:45,630 --> 00:09:51,900
+Yes, I read the question from beginning to end, but you know that the product owner must not he or
+
+133
+00:09:51,900 --> 00:09:54,380
+she is not required to use user stories.
+
+134
+00:09:54,690 --> 00:09:58,740
+These are the things that will get you to a really high score on your exam.
+
+135
+00:09:59,250 --> 00:10:01,290
+Thank you for watching and stay purposeful.

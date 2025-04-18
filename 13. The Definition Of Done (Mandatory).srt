@@ -1,0 +1,187 @@
+1
+00:00:02,620 --> 00:00:04,780
+Let's talk about the definition of them.
+
+2
+00:00:05,020 --> 00:00:12,310
+What is it the definition of them is a formal description of the state of the environment when it meets
+
+3
+00:00:12,310 --> 00:00:15,030
+the quality measures required for the product.
+
+4
+00:00:16,000 --> 00:00:18,910
+The definition of then is not an artifact.
+
+5
+00:00:19,270 --> 00:00:21,700
+It is a commitment for an artifact.
+
+6
+00:00:21,910 --> 00:00:22,930
+This is the increment.
+
+7
+00:00:24,400 --> 00:00:29,660
+I've shared with you before, but I would like to think about the definition of an is a checklist.
+
+8
+00:00:30,130 --> 00:00:37,390
+These are all the points that the scrotum has to check off to say an item is done when an item is done.
+
+9
+00:00:37,600 --> 00:00:39,910
+It means normal work is spending.
+
+10
+00:00:41,140 --> 00:00:48,550
+It means that the item is usable by the end users, the moment a product backlog item meets the definition
+
+11
+00:00:48,550 --> 00:00:50,350
+of an increment is born.
+
+12
+00:00:50,830 --> 00:00:57,520
+This center says exactly the same because by default, an increment is tested and it is verified, it
+
+13
+00:00:57,520 --> 00:00:58,380
+is usable.
+
+14
+00:00:59,050 --> 00:01:05,990
+The definition of then is he must be strong and it increases transparency when we see this item is done.
+
+15
+00:01:06,100 --> 00:01:08,590
+All the members of the team know what that means.
+
+16
+00:01:09,370 --> 00:01:16,120
+If the organization, the Scrum team works and has a definition of done is part of is part of its standards,
+
+17
+00:01:16,600 --> 00:01:18,430
+then the team must follow it as a minimum.
+
+18
+00:01:19,510 --> 00:01:26,950
+If it is not an organizational standard, then the entire scrumping creates a definition of done that
+
+19
+00:01:26,950 --> 00:01:28,250
+is appropriate for the product.
+
+20
+00:01:28,270 --> 00:01:33,850
+Of course, yes, the product owner now the product owner in the scrum master have a say in the definition
+
+21
+00:01:33,850 --> 00:01:40,390
+of the product owner input will be related to quality from a business point of view of the schoolmasters.
+
+22
+00:01:40,390 --> 00:01:45,420
+Input would be related to quality improvements to the definition of done.
+
+23
+00:01:45,940 --> 00:01:52,000
+After all, Kronosaurus main accountability is the effectiveness of the scrum team.
+
+24
+00:01:52,540 --> 00:01:57,910
+And to be effective, they the scrum team must have a strong definition of the.
+
+25
+00:01:58,740 --> 00:02:04,230
+And when I said improvements to the definition of done, do you remember during which event we usually
+
+26
+00:02:04,230 --> 00:02:05,980
+discuss the definition of them?
+
+27
+00:02:06,630 --> 00:02:10,530
+I hope you've answered Sprint retrospective Gujjar.
+
+28
+00:02:12,090 --> 00:02:17,260
+The developers are required to conform to the definition of done when skills crunch.
+
+29
+00:02:17,490 --> 00:02:19,570
+We have multiples from kids.
+
+30
+00:02:20,370 --> 00:02:21,660
+Now, a quick reminder here.
+
+31
+00:02:23,110 --> 00:02:28,440
+When we have multiple scrum teams working on the same product, we have one for the backlog.
+
+32
+00:02:28,450 --> 00:02:32,250
+We have one product owner in one product goal at any given time.
+
+33
+00:02:33,470 --> 00:02:41,390
+We have multiples from my source and, of course, developers, but we also have one integrated increment.
+
+34
+00:02:42,640 --> 00:02:49,450
+In the scrum, we must mutually define and comply with the same definition of them for that integrated
+
+35
+00:02:49,450 --> 00:02:50,080
+increment.
+
+36
+00:02:51,380 --> 00:02:52,250
+Time for recap.
+
+37
+00:02:53,220 --> 00:02:58,830
+The definition of done is a formal description of the state of the increment when it meets the quality
+
+38
+00:02:58,830 --> 00:03:05,610
+measures required for the product, the definition of done is mandatory and it increases transparency
+
+39
+00:03:06,190 --> 00:03:10,560
+if the definition of done is part of organizational standards.
+
+40
+00:03:10,740 --> 00:03:12,760
+This company must follow it as a minimum.
+
+41
+00:03:13,110 --> 00:03:19,830
+If the definition of done is not part of organizational standards, this company must create one that
+
+42
+00:03:19,830 --> 00:03:21,180
+is appropriate for the product.
+
+43
+00:03:21,600 --> 00:03:25,140
+The definition of them may be improved during the project.
+
+44
+00:03:25,320 --> 00:03:32,220
+The result would be a higher quality of the work if multiples continue working on the same product they
+
+45
+00:03:32,220 --> 00:03:38,460
+mutually define and comply with the same definition of done for the integrated increment.
+
+46
+00:03:40,210 --> 00:03:41,020
+Thank you for watching.
+
+47
+00:03:41,050 --> 00:03:43,390
+I'll see you in the next video, state purposeful.

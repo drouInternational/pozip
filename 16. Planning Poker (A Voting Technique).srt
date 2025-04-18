@@ -1,0 +1,179 @@
+1
+00:00:00,950 --> 00:00:07,760
+OK, so we know what story points are now it's time to assign story points to the PBIS.
+
+2
+00:00:08,030 --> 00:00:09,010
+How do we do that?
+
+3
+00:00:09,710 --> 00:00:12,340
+One way is to use Ploning poker.
+
+4
+00:00:12,860 --> 00:00:17,200
+I'll be honest with you, in the company I work for, we do not use this technique.
+
+5
+00:00:17,870 --> 00:00:18,770
+We've never tried it.
+
+6
+00:00:18,770 --> 00:00:20,190
+But here is the concept.
+
+7
+00:00:20,780 --> 00:00:24,770
+Each member holds several cards with numbers on them.
+
+8
+00:00:25,550 --> 00:00:29,600
+A PVA is presented and each member gets to vote.
+
+9
+00:00:30,140 --> 00:00:31,600
+But here is the interesting part.
+
+10
+00:00:32,210 --> 00:00:34,960
+They pick up a card and hold it face down.
+
+11
+00:00:35,450 --> 00:00:39,110
+Then when everyone is ready, the cards are shown at once.
+
+12
+00:00:40,040 --> 00:00:41,720
+You might be thinking why?
+
+13
+00:00:42,440 --> 00:00:49,220
+Let me tell you, if the voting happens one person after another, the decisions will be influenced
+
+14
+00:00:49,370 --> 00:00:51,090
+by the first person who votes.
+
+15
+00:00:51,530 --> 00:00:52,570
+This is not good.
+
+16
+00:00:52,790 --> 00:00:55,780
+It's a cognitive bias called anchoring.
+
+17
+00:00:56,360 --> 00:00:59,690
+We use this frequently in marketing when we present prices.
+
+18
+00:01:00,530 --> 00:01:01,610
+Let me give you an example.
+
+19
+00:01:02,330 --> 00:01:07,210
+I will show the product and I'll tell you, this product costs 200 dollars.
+
+20
+00:01:07,700 --> 00:01:14,540
+I want to use that price to hundred dollars as an anchor, but then for a limited time only you can
+
+21
+00:01:14,540 --> 00:01:18,470
+buy that product for thirty dollars, which is a huge discount.
+
+22
+00:01:18,680 --> 00:01:22,020
+And in your mind, the deal you're getting is amazing.
+
+23
+00:01:22,490 --> 00:01:24,110
+This is the power of anchoring.
+
+24
+00:01:24,560 --> 00:01:28,820
+The same effect happens when we vote one after another.
+
+25
+00:01:29,450 --> 00:01:36,590
+Now imagine the most experienced developer votes, 20 story points for an item and everybody sees that
+
+26
+00:01:37,160 --> 00:01:39,830
+they will pick something very close to that number.
+
+27
+00:01:40,250 --> 00:01:46,550
+Some people would not even consider what they think their own opinion, because if this experience developer
+
+28
+00:01:46,550 --> 00:01:49,120
+thinks so, that must be the case, right?
+
+29
+00:01:49,970 --> 00:01:52,880
+No, this is not the result we want.
+
+30
+00:01:53,540 --> 00:01:58,280
+Everyone holds the cards face down and they are shown it was.
+
+31
+00:01:58,790 --> 00:01:59,920
+But what happens next?
+
+32
+00:02:01,030 --> 00:02:06,670
+We want to take a look at the highest number and the lowest number, for example, one person voted
+
+33
+00:02:06,670 --> 00:02:07,780
+20 story points.
+
+34
+00:02:07,900 --> 00:02:10,980
+Another person voted 100 sort points.
+
+35
+00:02:11,290 --> 00:02:13,490
+Well, what does this tell us?
+
+36
+00:02:14,140 --> 00:02:15,250
+That's a huge difference.
+
+37
+00:02:15,250 --> 00:02:21,090
+Maybe one of the developers does not precisely understand the task at hand or the other one is still
+
+38
+00:02:21,100 --> 00:02:22,720
+considering important points.
+
+39
+00:02:22,930 --> 00:02:29,690
+In any case, we do another discussion to clarify and then we would vote again after that.
+
+40
+00:02:30,430 --> 00:02:36,870
+So if the numbers are more or less in the same range, we take an average and go with it.
+
+41
+00:02:37,450 --> 00:02:38,010
+That's it.
+
+42
+00:02:38,200 --> 00:02:41,400
+We go to the next PBI in revoltingly.
+
+43
+00:02:41,880 --> 00:02:44,320
+OK, this was the planning pocho concept.
+
+44
+00:02:44,500 --> 00:02:48,430
+It's not mandatory scrum, but many scrum teams use it.
+
+45
+00:02:48,880 --> 00:02:51,940
+Thank you for watching and I'll see you in the next video.

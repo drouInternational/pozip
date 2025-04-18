@@ -1,0 +1,367 @@
+1
+00:00:02,070 --> 00:00:06,410
+It's time to talk about releases, let's start with what we know about them.
+
+2
+00:00:07,260 --> 00:00:10,680
+The entire scrum team contributes to the release decision.
+
+3
+00:00:10,890 --> 00:00:12,820
+It's not just the product owner anymore.
+
+4
+00:00:13,260 --> 00:00:17,850
+All increments must be usable in the software world, we say releasable.
+
+5
+00:00:18,300 --> 00:00:24,360
+The commitment for the increment is the definition of each incremental moves the product closer to the
+
+6
+00:00:24,360 --> 00:00:25,090
+product goal.
+
+7
+00:00:25,590 --> 00:00:29,220
+This company may create multiple injuries during a sprint scrum.
+
+8
+00:00:29,220 --> 00:00:30,660
+Doesn't tell us when to release.
+
+9
+00:00:31,320 --> 00:00:34,860
+When we release an increment, we add value to the end users.
+
+10
+00:00:35,130 --> 00:00:41,700
+This results in societal or financial benefits for the organization, but also we receive feedback from
+
+11
+00:00:41,700 --> 00:00:42,530
+the end users.
+
+12
+00:00:43,730 --> 00:00:44,700
+So far, so good.
+
+13
+00:00:45,290 --> 00:00:50,630
+In a previous lecture, I have mentioned that we're not limited to just one release per sprint.
+
+14
+00:00:50,900 --> 00:00:57,590
+We can release a few a few times during the sprint if we want, or we can release a few increments at
+
+15
+00:00:57,590 --> 00:00:57,950
+a time.
+
+16
+00:00:58,130 --> 00:01:04,930
+The problem is that if we delayed the release, the volume might get out of line with the marketplace.
+
+17
+00:01:05,540 --> 00:01:08,600
+We will not receive fast feedback.
+
+18
+00:01:08,810 --> 00:01:10,880
+We won't make money also.
+
+19
+00:01:12,230 --> 00:01:14,930
+You do not receive validation from the marketplace.
+
+20
+00:01:14,960 --> 00:01:15,800
+What does that mean?
+
+21
+00:01:16,070 --> 00:01:23,000
+Well, it means that, yes, we ordered the items in the product backlog based on what we believe will
+
+22
+00:01:23,000 --> 00:01:23,940
+bring the most value.
+
+23
+00:01:24,620 --> 00:01:26,990
+But this is still on an assumption.
+
+24
+00:01:27,290 --> 00:01:30,110
+It has to be validated with the marketplace.
+
+25
+00:01:30,290 --> 00:01:32,830
+This is the only way to validate your ideas.
+
+26
+00:01:32,840 --> 00:01:34,550
+So is product owners.
+
+27
+00:01:34,550 --> 00:01:39,810
+If we wait for too long, we might build the wrong products, unfortunately.
+
+28
+00:01:40,310 --> 00:01:47,930
+Remember, a strong international framework, the core of 4G, LTE adaptation, having major releases
+
+29
+00:01:47,930 --> 00:01:50,030
+is typical for the waterfall approach.
+
+30
+00:01:50,480 --> 00:01:57,920
+Yes, it can happen in scrum too, but the whole idea is to be adaptive and the only way to test your
+
+31
+00:01:57,920 --> 00:02:01,570
+hypothesis is to put it against the marketplace.
+
+32
+00:02:02,000 --> 00:02:05,960
+In theory, it all sounds great and maybe easy.
+
+33
+00:02:06,500 --> 00:02:07,540
+What's the big deal?
+
+34
+00:02:07,670 --> 00:02:09,320
+Let's release of humpin.
+
+35
+00:02:09,920 --> 00:02:15,350
+But in reality, releasing can be complex because we have to consider many factors.
+
+36
+00:02:15,770 --> 00:02:16,910
+Let me give you an example.
+
+37
+00:02:18,390 --> 00:02:21,320
+Can the end users absorb the new release?
+
+38
+00:02:22,360 --> 00:02:26,830
+Maybe the organization has to provide training for the intruders.
+
+39
+00:02:27,790 --> 00:02:30,940
+What about if a new installation is required?
+
+40
+00:02:30,940 --> 00:02:35,860
+For example, will some end users be constrained in some way with the release?
+
+41
+00:02:37,120 --> 00:02:42,730
+Do the end users want the release at all and what are what are the reasons for that?
+
+42
+00:02:43,610 --> 00:02:46,740
+Maybe the last release we did was painful for them.
+
+43
+00:02:47,930 --> 00:02:49,650
+How can we make it better this there?
+
+44
+00:02:50,210 --> 00:02:54,890
+These are very important questions the product owners should ask themselves.
+
+45
+00:02:55,700 --> 00:03:00,740
+In other words, there is a cost associated with the major releases.
+
+46
+00:03:00,980 --> 00:03:07,020
+The cost of releasing the product owner should also focus on how to reduce that cost.
+
+47
+00:03:07,730 --> 00:03:10,060
+Of course, not all releases are equal.
+
+48
+00:03:10,250 --> 00:03:11,990
+Some are major, as I've said.
+
+49
+00:03:12,230 --> 00:03:13,320
+Others are minor.
+
+50
+00:03:13,400 --> 00:03:19,070
+For example, we can release a small increment to fix books, to fix existing books.
+
+51
+00:03:20,300 --> 00:03:27,650
+Or maybe there is a new regulation and we require to make some small changes, or maybe there is a new
+
+52
+00:03:27,650 --> 00:03:31,770
+feature and we want to we want to release it right away.
+
+53
+00:03:31,790 --> 00:03:34,720
+Why should we wait for a date in the future?
+
+54
+00:03:34,970 --> 00:03:36,050
+We can release it now.
+
+55
+00:03:36,050 --> 00:03:36,650
+It's ready.
+
+56
+00:03:36,650 --> 00:03:37,770
+It will provide felt.
+
+57
+00:03:37,880 --> 00:03:38,990
+We will get feedback.
+
+58
+00:03:39,350 --> 00:03:44,480
+Another important point I would like to mention is release preparation.
+
+59
+00:03:45,020 --> 00:03:46,420
+Not so much.
+
+60
+00:03:46,430 --> 00:03:52,220
+Other frameworks have special events where they prepare the increment for a release.
+
+61
+00:03:52,970 --> 00:04:00,530
+For example, a spring during which the development team has only refractory, only fixing bugs, doing
+
+62
+00:04:00,530 --> 00:04:02,300
+special tests and so on.
+
+63
+00:04:02,660 --> 00:04:05,250
+It's called a hardening sprint.
+
+64
+00:04:05,690 --> 00:04:14,360
+Well, the People for Safe Framework, the Safe Community Safe stands for Scaled Agile Framework might
+
+65
+00:04:14,360 --> 00:04:20,150
+criticize me here because they would say, Vladimír, a hardening sprint includes more activities.
+
+66
+00:04:20,480 --> 00:04:27,570
+But you must know that in scrum, special sprints do not exist, including a hardening sprint.
+
+67
+00:04:28,010 --> 00:04:32,110
+I know I've already mentioned that, but we're just getting deeper into the subject here.
+
+68
+00:04:33,220 --> 00:04:40,390
+All these activities, special tests, refactoring, fixing bugs, and so we do that during the sprits.
+
+69
+00:04:41,950 --> 00:04:48,670
+Another consideration is that if we have five sprints and all sprint number six, you have to do a lot
+
+70
+00:04:48,670 --> 00:04:50,270
+of tests before a release.
+
+71
+00:04:50,650 --> 00:04:51,790
+What does this tell us?
+
+72
+00:04:52,450 --> 00:04:57,840
+Well, it tells us that the previous sprints did not produce usable increments.
+
+73
+00:04:58,090 --> 00:05:00,550
+It tells us that the definition of done is weak.
+
+74
+00:05:00,790 --> 00:05:05,590
+That means the quality of the work the developers do is not as high as it could be.
+
+75
+00:05:05,770 --> 00:05:09,310
+We are breaking some rules and we do not want that.
+
+76
+00:05:09,850 --> 00:05:10,690
+Let's do a recap.
+
+77
+00:05:12,300 --> 00:05:18,720
+The Halstrom team contributes to release decisions, all increments must be verified in usable scrum,
+
+78
+00:05:18,720 --> 00:05:20,090
+doesn't tell us when to release.
+
+79
+00:05:20,250 --> 00:05:25,590
+It is not true that we can release only one sports print we're releasing.
+
+80
+00:05:25,590 --> 00:05:31,830
+We add value in receipt feedback from end users, which is the most valuable feedback we can get more
+
+81
+00:05:31,830 --> 00:05:36,090
+valuable than the customer who pays for the development of the product.
+
+82
+00:05:36,790 --> 00:05:39,370
+Also, we validate our assumptions.
+
+83
+00:05:39,720 --> 00:05:41,010
+This is validated learning.
+
+84
+00:05:41,550 --> 00:05:45,030
+We can have major releases and minor releases.
+
+85
+00:05:45,420 --> 00:05:51,630
+Major releases are typical for the waterfall approach to development, but we can also have major releases
+
+86
+00:05:51,630 --> 00:05:52,170
+in Scrum.
+
+87
+00:05:53,120 --> 00:06:00,290
+When we release, we should consider customer absorption constraints, values being delivered late to
+
+88
+00:06:00,290 --> 00:06:03,000
+the marketplace and the cost of the release.
+
+89
+00:06:03,650 --> 00:06:09,170
+There are no special sprinting programs such as Sprint zero or a hard sprint.
+
+90
+00:06:09,680 --> 00:06:13,040
+A rule of thumb, if you can release, do it.
+
+91
+00:06:17,750 --> 00:06:20,940
+In the next lecture, we will talk about Skillings Strong.
+
+92
+00:06:21,260 --> 00:06:23,420
+Thank you for watching and stay purposeful.

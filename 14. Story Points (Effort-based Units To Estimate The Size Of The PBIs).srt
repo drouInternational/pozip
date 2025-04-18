@@ -1,0 +1,219 @@
+1
+00:00:01,790 --> 00:00:03,380
+Let's talk about story points.
+
+2
+00:00:03,560 --> 00:00:08,630
+What are the story points are a relative unit of measurement.
+
+3
+00:00:09,140 --> 00:00:10,960
+The keyword here is relative.
+
+4
+00:00:11,270 --> 00:00:15,170
+For example, the team gets together and looks into a PBI.
+
+5
+00:00:15,530 --> 00:00:22,550
+Everyone has a good understanding of it and they estimate this item to be worth 10 story points.
+
+6
+00:00:23,710 --> 00:00:31,840
+If they need to estimate another item twice as big, that will be 20 story points or if the team can
+
+7
+00:00:31,840 --> 00:00:38,050
+get the thoughts, can do a third item in half the time in comparison to the first item, that would
+
+8
+00:00:38,050 --> 00:00:40,100
+be five story points.
+
+9
+00:00:40,630 --> 00:00:44,490
+Now, as I've said, we are interested in the relative value here.
+
+10
+00:00:45,310 --> 00:00:47,170
+The same example will be accurate.
+
+11
+00:00:47,350 --> 00:00:51,340
+If I said that the first item is 100 story points.
+
+12
+00:00:51,350 --> 00:00:55,390
+The second item is twice as big, 200 story points.
+
+13
+00:00:55,570 --> 00:00:58,540
+In the third item is 50 story points.
+
+14
+00:00:58,690 --> 00:01:01,690
+The roll numbers do not matter here.
+
+15
+00:01:02,290 --> 00:01:08,490
+When we estimate which story points, we always consider all the work that has to be done designing,
+
+16
+00:01:08,500 --> 00:01:11,020
+coding, testing, integrating and so on.
+
+17
+00:01:11,170 --> 00:01:15,610
+In other words, we take into consideration the definition of done.
+
+18
+00:01:16,420 --> 00:01:20,870
+If we have some special tests in the definition of them, we consider this well.
+
+19
+00:01:20,880 --> 00:01:22,150
+Well, estimating as well.
+
+20
+00:01:22,720 --> 00:01:28,360
+And to make my point, I would like to quote a man whose opinion I respect very much when we talk about
+
+21
+00:01:28,360 --> 00:01:33,670
+scrum and other agile principles, methodologies, frameworks and so on.
+
+22
+00:01:34,150 --> 00:01:37,360
+His name is Michael, and here's what he says.
+
+23
+00:01:38,470 --> 00:01:45,130
+Story points are a unit of measure for expressing an estimate of the overall effort that will be required
+
+24
+00:01:45,310 --> 00:01:50,730
+to fully implement a product backlog item or any other piece of work.
+
+25
+00:01:51,550 --> 00:01:54,280
+That's his definition of what story points are.
+
+26
+00:01:54,670 --> 00:02:00,850
+Mike talks about Deverall effort to fully implement a PBI.
+
+27
+00:02:01,630 --> 00:02:07,930
+As they've mentioned in earlier videos, we calculate the velocity of the team by combining the story
+
+28
+00:02:07,930 --> 00:02:14,860
+points, all of the items that were done in the past, during the past sprint or ideally an average
+
+29
+00:02:14,860 --> 00:02:16,240
+of the past several sprints.
+
+30
+00:02:16,600 --> 00:02:21,910
+This helps us determine how many PBIS the development team can handle during the next sprint.
+
+31
+00:02:22,270 --> 00:02:27,670
+And not only that, but we would be able to see how many sprints are left in the project.
+
+32
+00:02:27,970 --> 00:02:32,820
+Of course, if the PBIS are estimated, let me give you some examples to clarify.
+
+33
+00:02:34,060 --> 00:02:41,360
+Let's say that during spring one, the team managed to complete PBIS, which totals three points, twenty
+
+34
+00:02:41,380 --> 00:02:49,990
+five sprint to twenty two, three points, sprint three twenty seven, sprint for twenty and Sprint
+
+35
+00:02:49,990 --> 00:02:51,760
+five thirty one.
+
+36
+00:02:52,060 --> 00:02:59,110
+So if we calculate that we will get a total of one hundred and twenty five story points divided by five
+
+37
+00:02:59,110 --> 00:03:03,070
+sprints, we give an average velocity of twenty five.
+
+38
+00:03:03,820 --> 00:03:09,660
+Let's say that we have a product backlog with PBIS worth two hundred and fifty three points.
+
+39
+00:03:10,150 --> 00:03:12,720
+How many sprints do we need to finish the project.
+
+40
+00:03:13,300 --> 00:03:18,750
+Two hundred and fifty divided by twenty five equals ten sprints.
+
+41
+00:03:19,570 --> 00:03:23,280
+What's also good is that we know that our sprints are two weeks long.
+
+42
+00:03:24,040 --> 00:03:28,350
+That means we complete ten sprints for five months.
+
+43
+00:03:29,200 --> 00:03:36,340
+This information is quite important for customers and not only any types of stakeholders are interested
+
+44
+00:03:36,340 --> 00:03:36,730
+in that.
+
+45
+00:03:37,090 --> 00:03:40,750
+But please remember the velocity of the team changes.
+
+46
+00:03:41,140 --> 00:03:43,840
+It needs several sprints to get it stable.
+
+47
+00:03:44,230 --> 00:03:48,700
+The good news is that we can always recalculate with the new numbers.
+
+48
+00:03:49,860 --> 00:03:55,070
+Finally, what do we consider when estimating when to help us to points?
+
+49
+00:03:55,410 --> 00:04:04,610
+Of course, we start with the amount of work, but we also consider uncertainty, risk and complexity.
+
+50
+00:04:06,530 --> 00:04:13,250
+If you would like to dig deeper into these factors, I would recommend you read the blog post What Our
+
+51
+00:04:13,250 --> 00:04:15,590
+Story Points by Mike Cohen.
+
+52
+00:04:16,790 --> 00:04:21,850
+You would not need this information for your exam, but you would need it for your practice.
+
+53
+00:04:22,010 --> 00:04:25,150
+So I recommend you take a look in the next video.
+
+54
+00:04:25,450 --> 00:04:29,000
+I would like to introduce to you the Ploning poker.
+
+55
+00:04:29,540 --> 00:04:32,240
+Thank you for watching and stay purposeful.

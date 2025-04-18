@@ -1,0 +1,87 @@
+1
+00:00:02,140 --> 00:00:08,590
+I would like to present to you the cone of uncertainty, and the reason is you might not see a question
+
+2
+00:00:08,590 --> 00:00:14,560
+asking directly what the cone of uncertainty is, but you might see a question asking about the concept.
+
+3
+00:00:14,860 --> 00:00:18,210
+And if you know the concept, you would answer quickly and correctly.
+
+4
+00:00:18,250 --> 00:00:19,510
+So let's get to it.
+
+5
+00:00:20,940 --> 00:00:24,270
+The cone of uncertainty, what is it, what does it show?
+
+6
+00:00:24,480 --> 00:00:27,750
+Well, the key word here is uncertainty.
+
+7
+00:00:28,860 --> 00:00:35,100
+What the cone represents is the fact that at the very beginning of the project, the uncertainty is
+
+8
+00:00:35,100 --> 00:00:35,720
+the highest.
+
+9
+00:00:36,090 --> 00:00:39,480
+The more we do, the more we reduce uncertainty.
+
+10
+00:00:40,770 --> 00:00:42,250
+That's the whole deal here.
+
+11
+00:00:42,420 --> 00:00:47,670
+No need to complicate it, if you see questions about forecasts, just think about this.
+
+12
+00:00:47,880 --> 00:00:55,020
+The longer the forecast generally, the less accurate it will be, especially if you do a forecast at
+
+13
+00:00:55,020 --> 00:00:58,680
+the very beginning of the project where the uncertainty is the highest.
+
+14
+00:00:59,040 --> 00:01:03,230
+If you do it in the middle of the project, the forecast will be more accurate.
+
+15
+00:01:03,480 --> 00:01:05,460
+The horizontal axis shows the time.
+
+16
+00:01:05,460 --> 00:01:13,290
+The vertical axis shows how much we know about the project and the progression of iterations or sprints
+
+17
+00:01:13,590 --> 00:01:15,590
+for the shape of the call.
+
+18
+00:01:15,600 --> 00:01:17,610
+We gain more knowledge.
+
+19
+00:01:17,920 --> 00:01:18,590
+That's it.
+
+20
+00:01:18,750 --> 00:01:19,830
+Nothing complex here.
+
+21
+00:01:19,830 --> 00:01:23,790
+As you can see in the next video, we'll talk about technical debt.
+
+22
+00:01:24,090 --> 00:01:25,920
+Thank you for watching and stay purposeful.

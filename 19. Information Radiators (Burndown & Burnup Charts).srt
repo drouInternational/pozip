@@ -1,0 +1,319 @@
+1
+00:00:02,690 --> 00:00:07,730
+Is a product warmer, it is your responsibility to measure the progress of the project.
+
+2
+00:00:08,330 --> 00:00:10,720
+You do this at least once per sprint.
+
+3
+00:00:10,910 --> 00:00:14,720
+You need to make sure the team delivers value after progress.
+
+4
+00:00:14,720 --> 00:00:16,370
+Measurement is mandatory.
+
+5
+00:00:16,790 --> 00:00:22,550
+But what is not mandatory are the diagrams or charts we would use to measure that progress.
+
+6
+00:00:23,210 --> 00:00:25,610
+Why is this lecture called Information Radiator's?
+
+7
+00:00:25,940 --> 00:00:30,400
+That is because the charts we use to measure progress radiate information.
+
+8
+00:00:31,220 --> 00:00:33,850
+You know, one of the pillars since is transparency.
+
+9
+00:00:33,890 --> 00:00:40,100
+We can draw and update the chart, put it in a visible place in everyone in the team knows where we
+
+10
+00:00:40,100 --> 00:00:41,400
+are, by the way.
+
+11
+00:00:41,540 --> 00:00:44,900
+Do you remember who measures the progress of the sprint?
+
+12
+00:00:48,080 --> 00:00:55,300
+It's the development team, they do that daily and they know best what's going on during the sprint,
+
+13
+00:00:55,670 --> 00:01:01,130
+very common charge competition, their fuels are burned down and burn up charts.
+
+14
+00:01:01,550 --> 00:01:03,700
+You might see questions from your exam about them.
+
+15
+00:01:03,710 --> 00:01:07,260
+So let's start with the burned down chart.
+
+16
+00:01:07,400 --> 00:01:08,810
+It's quite simple, by the way.
+
+17
+00:01:09,050 --> 00:01:10,580
+Here is how they look.
+
+18
+00:01:10,580 --> 00:01:12,590
+Here is how the burned out chart looks like.
+
+19
+00:01:13,880 --> 00:01:20,300
+The horizontal axis shows the time, the vertical axis shows the amount of work, so the burned down
+
+20
+00:01:20,300 --> 00:01:27,780
+chart shows how much work is left or said, in other words, the amount of remaining work across time.
+
+21
+00:01:28,250 --> 00:01:35,180
+The green dotted line is a trend line that shows our planet progress, but the blue line is our real
+
+22
+00:01:35,330 --> 00:01:35,780
+progress.
+
+23
+00:01:35,810 --> 00:01:37,190
+This is what actually happens.
+
+24
+00:01:37,380 --> 00:01:42,210
+As you can see, the more PBIS we complete, the more the blue line moves down.
+
+25
+00:01:42,800 --> 00:01:49,550
+You should know that the trend line is just an assumption when the project will be completed, if there
+
+26
+00:01:49,550 --> 00:01:55,670
+aren't any significant changes, or I should see no changes at all to the number of developers or the
+
+27
+00:01:55,670 --> 00:01:56,850
+scope of the project.
+
+28
+00:01:57,140 --> 00:02:03,800
+That's important because if you as a product owner constantly argue PBIS, basically you're changing
+
+29
+00:02:03,800 --> 00:02:05,130
+the scope of the project.
+
+30
+00:02:05,330 --> 00:02:09,450
+It would be impossible to end the project somewhere near the trend line.
+
+31
+00:02:10,280 --> 00:02:14,640
+Even those from international framework in energy, we don't do upfront planning.
+
+32
+00:02:14,660 --> 00:02:16,260
+Let's be realistic.
+
+33
+00:02:16,730 --> 00:02:20,610
+Sometimes the scrum teams will be working on a project with a deadline.
+
+34
+00:02:21,290 --> 00:02:27,900
+Now forget about the trend line for a moment and think of it as a deadline instead as a product where
+
+35
+00:02:27,920 --> 00:02:29,800
+you can draw this deadline yourself.
+
+36
+00:02:30,140 --> 00:02:34,130
+And what does it mean when the blue line is above the deadline?
+
+37
+00:02:36,190 --> 00:02:37,870
+It means we're behind schedule.
+
+38
+00:02:38,700 --> 00:02:42,580
+If we're under the red line, it means we are ahead of schedule.
+
+39
+00:02:43,140 --> 00:02:48,350
+Now the burned down chart can be used by the development team to measure the progress of this sprint.
+
+40
+00:02:48,930 --> 00:02:55,260
+The horizontal axis would show D and we can call it a spring burn down chart.
+
+41
+00:02:55,380 --> 00:03:00,540
+When the product owner uses such a chart, we can call it a project burn down chart.
+
+42
+00:03:00,750 --> 00:03:05,940
+Then the horizontal axis would natural names, but instead it would show Prince.
+
+43
+00:03:07,200 --> 00:03:12,660
+Besides, the burned down charred, a burned up chart also exists as a tool to track progress.
+
+44
+00:03:13,020 --> 00:03:15,480
+It shows the complete work and total work.
+
+45
+00:03:15,660 --> 00:03:19,500
+As you can see, the completed work start from zero and it goes up.
+
+46
+00:03:19,860 --> 00:03:23,520
+This chart shows any changes in the scope of the project.
+
+47
+00:03:24,870 --> 00:03:30,870
+The scope is the total amount of work, let's say we have a product backlog with temps estimated at
+
+48
+00:03:31,110 --> 00:03:34,530
+120 story points, that's our scope.
+
+49
+00:03:34,710 --> 00:03:37,080
+But the customer wants to add two more features.
+
+50
+00:03:37,290 --> 00:03:40,530
+More PBIS means more story points is a result.
+
+51
+00:03:40,710 --> 00:03:42,900
+The total amount of work increases.
+
+52
+00:03:43,050 --> 00:03:46,980
+And let's say that we've added to this worth 20 story points.
+
+53
+00:03:47,100 --> 00:03:51,930
+And the result is the blue line going up to 140 story points.
+
+54
+00:03:52,050 --> 00:03:58,830
+As you can see on the chart, if we remove PBIS, the burn up chart would reflect that as well.
+
+55
+00:03:59,040 --> 00:04:00,840
+The blue line would go down.
+
+56
+00:04:01,410 --> 00:04:07,560
+Now, some people would say it is better to use BORDENAVE charts instead of burned down because the
+
+57
+00:04:07,560 --> 00:04:10,740
+burned down chart doesn't show changes in the small bits.
+
+58
+00:04:10,770 --> 00:04:17,220
+That is not completely true because now instead of drawing it, you know, by hand, we have tools like
+
+59
+00:04:17,220 --> 00:04:18,630
+Jurez I've already mentioned.
+
+60
+00:04:18,900 --> 00:04:23,910
+And you can set it up in a way that the burned down chart would also show changes in the scope.
+
+61
+00:04:23,910 --> 00:04:25,410
+But this is not important.
+
+62
+00:04:25,830 --> 00:04:31,880
+As a product owner, it's up to you to choose how you will present showed the progress of the product.
+
+63
+00:04:31,890 --> 00:04:37,260
+And by the way, these are these are just two chart, but there are many more many more charts you can
+
+64
+00:04:37,260 --> 00:04:40,740
+use, for example, cumulative diagrams and in many other things.
+
+65
+00:04:41,640 --> 00:04:44,730
+But what is important here is your focus.
+
+66
+00:04:45,240 --> 00:04:47,790
+What do you focus on your measuring progress?
+
+67
+00:04:47,790 --> 00:04:52,930
+So that means everything should revolve around volume, not velocity and story points.
+
+68
+00:04:52,960 --> 00:05:01,320
+Yes, these charts are helpful, but the ultimate measure of success is the value your product delivers.
+
+69
+00:05:01,650 --> 00:05:02,700
+Let's do a quick recap.
+
+70
+00:05:03,840 --> 00:05:09,030
+Progress measure month is mandatory and strong, the economy measures the progress of the project once
+
+71
+00:05:09,030 --> 00:05:16,230
+first sprint to ensure value is being delivered, the burned out chart shows the remaining work across
+
+72
+00:05:16,230 --> 00:05:16,520
+time.
+
+73
+00:05:16,920 --> 00:05:21,810
+The trend line is simply a forecast and assumption when the project will end.
+
+74
+00:05:21,960 --> 00:05:28,800
+If there are no changes in scope and number of developers, the burn up chart shows the complete work
+
+75
+00:05:28,800 --> 00:05:29,520
+in total work.
+
+76
+00:05:29,520 --> 00:05:31,680
+Changes in the scope are clearly seen.
+
+77
+00:05:31,800 --> 00:05:35,880
+For your example, remember that chart of rooms are not mandatory.
+
+78
+00:05:38,050 --> 00:05:40,510
+Thank you for watching and I'll see you in the next lecture.
+
+79
+00:05:40,930 --> 00:05:45,190
+We will talk about an interesting topic, the cone of uncertainty.
+
+80
+00:05:45,640 --> 00:05:48,100
+And remember, state purposeful.

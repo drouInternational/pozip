@@ -1,0 +1,315 @@
+1
+00:00:02,340 --> 00:00:08,790
+I want to start this lecture with the fourth sentence from the Agile Manifesto responding to change
+
+2
+00:00:08,790 --> 00:00:12,670
+over falling a plan, as you remember, from a previous lecture.
+
+3
+00:00:12,780 --> 00:00:19,180
+We do planning in our job, but what we don't do is be detailed, upfront plans for the whole project.
+
+4
+00:00:19,950 --> 00:00:21,060
+We want to be agile.
+
+5
+00:00:21,090 --> 00:00:22,280
+We want to be adaptive.
+
+6
+00:00:22,290 --> 00:00:27,900
+Instead of following a big plan, we won't allow the customer and the end user to provide us with feedback
+
+7
+00:00:27,900 --> 00:00:30,530
+and based on it, we develop accordingly.
+
+8
+00:00:31,170 --> 00:00:38,430
+With that being said, if you see questions related to measuring success, we schedule budget in scope.
+
+9
+00:00:38,760 --> 00:00:41,590
+And I want to underline the word scope here.
+
+10
+00:00:41,760 --> 00:00:45,420
+You should know that these are not measures of success.
+
+11
+00:00:46,700 --> 00:00:54,710
+Scrambled egg is very sensitive about the awards, product and project they believe in product management
+
+12
+00:00:54,710 --> 00:00:57,740
+and development, not project management.
+
+13
+00:00:58,340 --> 00:01:04,460
+You also know that in strong we do not have a project manager role, but in traditional project management,
+
+14
+00:01:04,610 --> 00:01:07,070
+we do have project managers, of course.
+
+15
+00:01:07,460 --> 00:01:10,290
+And what do these project managers do?
+
+16
+00:01:10,310 --> 00:01:16,700
+Very briefly, they gather information and create an initial plan with a scope, of course, time and
+
+17
+00:01:16,700 --> 00:01:17,230
+budget.
+
+18
+00:01:17,720 --> 00:01:20,210
+They ask for resources, they assign tasks.
+
+19
+00:01:20,540 --> 00:01:21,680
+Reporting is a big deal.
+
+20
+00:01:21,680 --> 00:01:22,130
+By the way.
+
+21
+00:01:22,130 --> 00:01:29,180
+Sometimes developers have to explain what they've been working on hour by hour, Gantt charts are being
+
+22
+00:01:29,180 --> 00:01:30,350
+used and so on.
+
+23
+00:01:31,190 --> 00:01:36,590
+Having said that, do not understand that project management is something that or it does not work.
+
+24
+00:01:36,590 --> 00:01:40,280
+Nor the problem comes when managers use it incorrectly.
+
+25
+00:01:40,910 --> 00:01:41,800
+Here is what I mean.
+
+26
+00:01:42,500 --> 00:01:50,030
+Most of the time, project managers measure success by adhering sticking to the initial plan as close
+
+27
+00:01:50,030 --> 00:01:50,650
+as possible.
+
+28
+00:01:50,660 --> 00:01:52,900
+The project has met the deadline.
+
+29
+00:01:53,150 --> 00:01:57,020
+It has to be on budget or under budget, within scope.
+
+30
+00:01:57,050 --> 00:01:58,400
+It all sounds good.
+
+31
+00:01:58,400 --> 00:01:59,510
+It sounds logical.
+
+32
+00:02:00,020 --> 00:02:08,140
+But in the book, The Professional Product, the authors are asking, but what about projects that remain
+
+33
+00:02:08,140 --> 00:02:12,910
+on time, on budget and within scope and yet still do not succeed?
+
+34
+00:02:13,840 --> 00:02:19,330
+And they give us an example with Nokia, they produced mobile phones with a high success rate in terms
+
+35
+00:02:19,330 --> 00:02:20,680
+of their project.
+
+36
+00:02:20,950 --> 00:02:25,090
+Nokia was the leader in the mobile phone industry, the mobile phone market.
+
+37
+00:02:25,330 --> 00:02:31,540
+They followed very tight schedules to produce the phones, but they ended up as a Department of Microsoft.
+
+38
+00:02:31,540 --> 00:02:36,570
+Nokia didn't make the mental shift from project thinking to product thinking.
+
+39
+00:02:37,820 --> 00:02:44,420
+Again, it's about delivering value through products and not about delivering projects on time, budget
+
+40
+00:02:44,420 --> 00:02:50,690
+and within scope, simply simply because you can be on time, within budget, in the scope, but still
+
+41
+00:02:50,690 --> 00:02:52,350
+do not deliver value.
+
+42
+00:02:53,120 --> 00:02:56,260
+And I read something interesting, something funny on this topic.
+
+43
+00:02:56,620 --> 00:02:58,610
+It was a blog postings from the talk.
+
+44
+00:02:59,150 --> 00:03:03,940
+The operation succeeded as the project, but the patient died.
+
+45
+00:03:03,980 --> 00:03:04,850
+That's the product.
+
+46
+00:03:05,270 --> 00:03:11,150
+This is the result when project management is used incorrectly, when the focus is on the wrong place.
+
+47
+00:03:11,550 --> 00:03:13,580
+It is not on the end user.
+
+48
+00:03:13,610 --> 00:03:14,450
+And there needs.
+
+49
+00:03:16,250 --> 00:03:23,060
+And now the question is product owners who practice product development, what should we focus on?
+
+50
+00:03:24,220 --> 00:03:32,230
+Consider the Foley building the right product, focusing on meeting customers needs and happiness,
+
+51
+00:03:32,710 --> 00:03:34,150
+creating a product vision.
+
+52
+00:03:35,220 --> 00:03:42,270
+Balance in priority or risk value opportunities independence's to help you build the product in the
+
+53
+00:03:42,270 --> 00:03:50,190
+right way in the right order, maximizing revenue and ROIC, return on investment, measuring success
+
+54
+00:03:50,220 --> 00:03:57,030
+with business metrics like user adoption and retention in revenue or cost savings generated per feature,
+
+55
+00:03:57,390 --> 00:04:02,670
+frequently releasing product increments to obtain earlier feedback from the marketplace.
+
+56
+00:04:04,510 --> 00:04:10,960
+By using the product mindset and approach, we eliminate waste because we do less task management,
+
+57
+00:04:11,290 --> 00:04:18,070
+we do less people management as opposed to the project mindset instrument, you know that we have self
+
+58
+00:04:18,070 --> 00:04:19,230
+organizing teams.
+
+59
+00:04:19,240 --> 00:04:22,960
+Nobody pushes back to the development in the pool.
+
+60
+00:04:22,960 --> 00:04:29,110
+The items from the product backlog, they decompose the items into smaller units we call tasks.
+
+61
+00:04:29,440 --> 00:04:35,410
+And then the developers, they assign the tasks to themselves that fosters creativity.
+
+62
+00:04:35,620 --> 00:04:40,330
+It's the supporting system instead of a task pushing system.
+
+63
+00:04:41,710 --> 00:04:42,790
+OK, time to recap.
+
+64
+00:04:45,620 --> 00:04:47,720
+Responding to change over following a plan.
+
+65
+00:04:48,900 --> 00:04:52,720
+Time, budget and scope are not the best measurements for success.
+
+66
+00:04:52,740 --> 00:04:54,930
+Yes, these metrics can be useful.
+
+67
+00:04:54,930 --> 00:04:55,800
+They are useful.
+
+68
+00:04:55,980 --> 00:04:59,880
+But this is not how you measure success in school successes.
+
+69
+00:04:59,880 --> 00:05:02,450
+Crumb is delivering value for products.
+
+70
+00:05:02,580 --> 00:05:06,420
+So we have happy end users, scrum teams and stakeholders.
+
+71
+00:05:07,420 --> 00:05:12,090
+Useful business metrics for the product owner are user adoption and retention.
+
+72
+00:05:12,430 --> 00:05:18,040
+We want to grow our customers and our customer base, but we also want to keep the customers we already
+
+73
+00:05:18,040 --> 00:05:18,580
+have.
+
+74
+00:05:20,530 --> 00:05:23,540
+Revenue or cost savings generated by our future.
+
+75
+00:05:23,590 --> 00:05:30,640
+We strive for higher revenue and lower costs for the organization in strong corporate management activities
+
+76
+00:05:30,640 --> 00:05:34,340
+are distributed among all members of the scrumpy.
+
+77
+00:05:34,600 --> 00:05:38,500
+We do not have an equivalent of a project manager.
+
+78
+00:05:41,130 --> 00:05:47,190
+In the next lecture, we will talk about the product back, look into attributes of the items in it.
+
+79
+00:05:48,040 --> 00:05:50,410
+Thank you for watching and stay purposeful.

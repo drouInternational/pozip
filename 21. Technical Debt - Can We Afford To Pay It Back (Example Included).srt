@@ -1,0 +1,223 @@
+1
+00:00:00,480 --> 00:00:03,640
+Technical debt is a term that you miss you on your exam.
+
+2
+00:00:04,320 --> 00:00:06,210
+The concept is easy to understand.
+
+3
+00:00:06,540 --> 00:00:12,490
+It refers to the way the developers are planning in writing the code in software development.
+
+4
+00:00:12,720 --> 00:00:18,690
+You can create a feature in more than one way, meaning the desk can expedite the delivery of the future
+
+5
+00:00:18,690 --> 00:00:20,640
+and meet the deadline, for example.
+
+6
+00:00:21,390 --> 00:00:24,780
+Or they can take more time and write the code.
+
+7
+00:00:25,120 --> 00:00:26,610
+Let's say almost perfectly.
+
+8
+00:00:27,480 --> 00:00:30,770
+Usually stakeholders want features and releases fast.
+
+9
+00:00:31,080 --> 00:00:32,060
+But here is the problem.
+
+10
+00:00:32,670 --> 00:00:38,790
+The more we expedite the delivery of the features, usually the more technical debt we accrue.
+
+11
+00:00:39,570 --> 00:00:41,760
+Let me give you an example to illustrate.
+
+12
+00:00:42,450 --> 00:00:47,670
+Imagine the customer wants a simple page with a sign, the form with five fields'.
+
+13
+00:00:48,900 --> 00:00:56,790
+The development team can do that for him in two hours, or it can do it in eight hours, the same for
+
+14
+00:00:56,790 --> 00:00:59,560
+the same fields, it will work the same way.
+
+15
+00:01:00,240 --> 00:01:06,420
+Now, if the developers do it in two hours and the customer requests two more fields to be added later
+
+16
+00:01:06,420 --> 00:01:12,410
+down the line, the developers would need 10 hours to ask the two fields.
+
+17
+00:01:13,170 --> 00:01:20,340
+But if the developers did decide to form in eight hours, initially, they would need 20 minutes to
+
+18
+00:01:20,340 --> 00:01:22,050
+add the two fields.
+
+19
+00:01:22,620 --> 00:01:28,350
+In the first case, the developers accrued technical debt and it was paid later.
+
+20
+00:01:28,740 --> 00:01:35,790
+In the second case, the planning and the calls were of high quality and no technical debt was accrued.
+
+21
+00:01:36,510 --> 00:01:40,450
+Now, this is just an example I made of the numbers in the real world.
+
+22
+00:01:40,470 --> 00:01:43,500
+This might not be true, but it doesn't matter.
+
+23
+00:01:43,830 --> 00:01:48,120
+The example clearly illustrates the concept of technical debt.
+
+24
+00:01:49,240 --> 00:01:55,840
+Sometimes from teams intentionally incur technical debt, for example, they want to receive fast feedback
+
+25
+00:01:55,840 --> 00:01:56,830
+from the marketplace.
+
+26
+00:01:57,400 --> 00:02:02,300
+In other cases, the developers unintentionally incur technical debt.
+
+27
+00:02:02,800 --> 00:02:07,810
+Maybe the deaf who was working on the future was doing too much of our time is close to burnout.
+
+28
+00:02:08,200 --> 00:02:12,330
+And Pucci could not come up with the best solution code wise.
+
+29
+00:02:13,290 --> 00:02:19,410
+In any case, we'll need to reduce technical debt by doing what's called called refactoring.
+
+30
+00:02:20,330 --> 00:02:26,280
+Refactoring is rewriting a piece of code, the feature works the same way as with the old code.
+
+31
+00:02:26,870 --> 00:02:34,640
+We do not change the behavior of the future, but the performance or future updates now become way easier
+
+32
+00:02:34,940 --> 00:02:35,720
+and faster.
+
+33
+00:02:36,530 --> 00:02:39,180
+Refactoring, however, has its limits.
+
+34
+00:02:39,200 --> 00:02:46,100
+For example, if we are writing quality code, releasing many cool features, everyone is happy.
+
+35
+00:02:47,110 --> 00:02:49,450
+But we do not think about the architecture.
+
+36
+00:02:50,140 --> 00:02:54,100
+We don't think about scalability, we are short sighted.
+
+37
+00:02:54,640 --> 00:03:02,230
+And if we face some serious issues like security, where that scalability, data management and more,
+
+38
+00:03:02,890 --> 00:03:05,550
+we will find ourselves in a difficult situation.
+
+39
+00:03:06,070 --> 00:03:09,150
+In this case, even refactoring would not help.
+
+40
+00:03:09,310 --> 00:03:10,690
+What is there to refactor?
+
+41
+00:03:11,140 --> 00:03:12,850
+The code is already of high quality.
+
+42
+00:03:13,150 --> 00:03:19,060
+The technical debt we accrued here is of another nature, so technical.
+
+43
+00:03:19,060 --> 00:03:21,890
+That is not just one type, poorly written code.
+
+44
+00:03:21,910 --> 00:03:25,480
+No, there is more to that poor planning.
+
+45
+00:03:26,260 --> 00:03:30,540
+Refactoring is also related to the fact that we need resources to do it.
+
+46
+00:03:30,850 --> 00:03:32,770
+Let's put it simply, we need money.
+
+47
+00:03:33,160 --> 00:03:35,890
+The whole scrum team should be aware of this.
+
+48
+00:03:36,760 --> 00:03:42,040
+They should know the cost they will pay in the future to repay the debt.
+
+49
+00:03:42,850 --> 00:03:49,300
+And now when you know the concept, I think the sentence during a sprint quality goals do not decrease
+
+50
+00:03:49,300 --> 00:03:50,530
+would make more sense.
+
+51
+00:03:50,830 --> 00:03:58,480
+The quality of the work we do, our re expediting the delivery or are we taking the time to write code
+
+52
+00:03:58,480 --> 00:03:59,400
+of high quality?
+
+53
+00:03:59,740 --> 00:04:06,160
+Honestly, the topic of technical debt is quite broad, but I'm sure the information here is more than
+
+54
+00:04:06,160 --> 00:04:08,000
+enough for for your example.
+
+55
+00:04:08,500 --> 00:04:09,300
+Thank you for watching.
+
+56
+00:04:10,120 --> 00:04:13,780
+I hope this video has been helpful and I'll see you in the next one.

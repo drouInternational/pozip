@@ -1,0 +1,403 @@
+1
+00:00:02,540 --> 00:00:09,650
+OK, let's continue with evidence based management, part two, IBM is an empirical approach that provides
+
+2
+00:00:09,860 --> 00:00:15,530
+organizations with the ability to measure the quality delivered to customers in the means by which they
+
+3
+00:00:15,530 --> 00:00:21,500
+deliver that value and to use those measures to get improvements in both.
+
+4
+00:00:22,700 --> 00:00:31,850
+And now here is the important part, figure one EBM consists of four key areas unrealized value, current
+
+5
+00:00:31,850 --> 00:00:35,420
+value, ability to innovate in time to market.
+
+6
+00:00:36,850 --> 00:00:42,370
+OK, so listen, before Kvas give Schiavelli areas, you need to understand them as you will see questions
+
+7
+00:00:42,370 --> 00:00:45,240
+on your pure one exam, as they've already said.
+
+8
+00:00:45,250 --> 00:00:48,400
+For example, I'm certain I saw a question about time to market.
+
+9
+00:00:48,700 --> 00:00:54,070
+The good thing here is that these Kevo areas are super easy to understand.
+
+10
+00:00:54,610 --> 00:00:56,470
+Take a look at what the guide says.
+
+11
+00:00:57,370 --> 00:01:03,600
+Each KVA focuses on a different aspect of eider of value or the ability of the organization to deliver
+
+12
+00:01:03,610 --> 00:01:06,280
+value organizations without strength.
+
+13
+00:01:06,580 --> 00:01:14,110
+In all, four, Kiva's may deliver short term value, but will not be able to sustain it, delivering
+
+14
+00:01:14,110 --> 00:01:17,170
+value, happy stakeholders and satisfied employees.
+
+15
+00:01:17,470 --> 00:01:23,650
+Current values are important, but organizations must also show that they can meet market demand with
+
+16
+00:01:23,650 --> 00:01:28,780
+timely delivery time to market while being able to sustain innovation over time.
+
+17
+00:01:28,940 --> 00:01:36,970
+Ability to innovate continued investment in the product is justified based on measures of its yet unrealized
+
+18
+00:01:36,970 --> 00:01:41,770
+value that could be realized if the product possesses the right capabilities.
+
+19
+00:01:43,570 --> 00:01:49,990
+Now, let's briefly touch on each Cavaleri current value, as the name suggests, this area is above
+
+20
+00:01:50,000 --> 00:01:51,560
+the value the product delivers.
+
+21
+00:01:51,590 --> 00:01:57,880
+Now, as you can see, the guide gives us example questions to help us reevaluate the current value
+
+22
+00:01:57,880 --> 00:01:58,340
+area.
+
+23
+00:01:58,840 --> 00:02:01,750
+How happy are users in customers today?
+
+24
+00:02:01,990 --> 00:02:04,610
+Is their happiness improving or declining?
+
+25
+00:02:05,080 --> 00:02:07,180
+How happy are your employees?
+
+26
+00:02:07,450 --> 00:02:09,860
+Is their happiness improving or declining?
+
+27
+00:02:10,270 --> 00:02:13,840
+How happy are your investors and other stakeholders?
+
+28
+00:02:14,080 --> 00:02:16,570
+Is their happiness improving or declining?
+
+29
+00:02:17,320 --> 00:02:18,790
+Do you notice the keyword here?
+
+30
+00:02:18,880 --> 00:02:19,780
+Happiness.
+
+31
+00:02:19,780 --> 00:02:23,800
+But this is not new to you because we spoke about it in the electoral vote.
+
+32
+00:02:24,380 --> 00:02:32,050
+Now, each KVOA is associated with several key value measures at the end of the guide.
+
+33
+00:02:32,080 --> 00:02:34,060
+You'll see that K.V. Ms.
+
+34
+00:02:34,300 --> 00:02:35,850
+Eveillard measures explained.
+
+35
+00:02:36,040 --> 00:02:41,530
+It's not necessary for you to learn in my heart, but read them a few times and understand them.
+
+36
+00:02:42,070 --> 00:02:43,450
+These cavey Ms.
+
+37
+00:02:43,480 --> 00:02:49,510
+Show us what to measure and what to strive to improve by using learning looks.
+
+38
+00:02:49,720 --> 00:02:51,450
+But more about that a bit later.
+
+39
+00:02:52,180 --> 00:03:00,670
+The CVS for the current value area are revenue per employee product, cost ratio, employee satisfaction,
+
+40
+00:03:01,000 --> 00:03:04,540
+customer satisfaction and customer usage index.
+
+41
+00:03:06,380 --> 00:03:13,390
+Next time the market well, this KVOA has to do with speed, how quickly do we deliver value?
+
+42
+00:03:13,670 --> 00:03:18,890
+Do you remember one of the considerations of the product on the Web planning releases was he or she
+
+43
+00:03:18,890 --> 00:03:25,370
+must be careful not to miss the window that the increment would deliver value, because if the product
+
+44
+00:03:25,370 --> 00:03:31,570
+on wait for too long, the value the incremental would deliver might get out of line with the marketplace.
+
+45
+00:03:32,240 --> 00:03:40,160
+The curves here are built in integration, frequency release, frequency release, stabilization period.
+
+46
+00:03:40,580 --> 00:03:45,020
+Meantime, to repair cycle time and lead time.
+
+47
+00:03:46,390 --> 00:03:48,280
+Next ability to innovate.
+
+48
+00:03:48,610 --> 00:03:53,140
+This one is about the ability to deliver new capabilities and innovative solutions.
+
+49
+00:03:53,440 --> 00:03:59,620
+Now, I want to point your attention to this, a variety of things, Skinny Pete, a teen from being
+
+50
+00:03:59,620 --> 00:04:06,730
+able to deliver new capabilities and, well, spending too much time fixing defects or reducing technical
+
+51
+00:04:06,730 --> 00:04:10,570
+debt, having to maintain multiple code and so on and so on now.
+
+52
+00:04:11,840 --> 00:04:16,880
+I have a dedicated lecture on technical debt because it's a product you should be aware of these concepts,
+
+53
+00:04:16,880 --> 00:04:23,480
+but the sentence I've just read should be a reminder to us that the purpose of this print is to create
+
+54
+00:04:23,480 --> 00:04:25,990
+a potentially releasable increment that delivers value.
+
+55
+00:04:26,150 --> 00:04:32,600
+Scrum does not allow special spreads, for example, sprint for removing technical debt or a sprint
+
+56
+00:04:32,600 --> 00:04:33,890
+for removing bugs.
+
+57
+00:04:34,310 --> 00:04:38,750
+Technical Sprint's hardening sprint sprint zero do not exist in school.
+
+58
+00:04:38,840 --> 00:04:45,320
+And I'm certain you will see questions on your example about the CVS for the ability to innovate are.
+
+59
+00:04:46,330 --> 00:04:48,030
+Feature usage index.
+
+60
+00:04:49,340 --> 00:04:59,540
+Innovation rate defect trends on property index is fulled versus index technical debt production incident
+
+61
+00:04:59,540 --> 00:05:08,060
+trends, active court branches, time spent merging called between branches in time spent context switching.
+
+62
+00:05:10,160 --> 00:05:11,400
+Next, unrealized value.
+
+63
+00:05:11,870 --> 00:05:18,260
+This one is about the value that the organization could realize in the future, the product owner should
+
+64
+00:05:18,260 --> 00:05:24,740
+be aware if the unrealized value is high or low, if it is high, that means that there is great market
+
+65
+00:05:24,740 --> 00:05:25,250
+potential.
+
+66
+00:05:25,470 --> 00:05:30,470
+If it is low, it means that we are reaching the end of the product lifecycle.
+
+67
+00:05:30,980 --> 00:05:35,670
+There are only two key measures for the unrealized value area.
+
+68
+00:05:36,020 --> 00:05:42,620
+The first one is market share and this is the relative percentage of the market controlled by the product.
+
+69
+00:05:42,800 --> 00:05:46,670
+In the second one is customer or user satisfaction.
+
+70
+00:05:46,720 --> 00:05:54,160
+Yep, this is the difference between a customer or user desired experience in their current experience.
+
+71
+00:05:56,620 --> 00:05:59,110
+OK, now let's talk about the learning new.
+
+72
+00:06:00,300 --> 00:06:07,350
+How to improve empirically using evidence based management, step one, quantify how we quantify the
+
+73
+00:06:07,350 --> 00:06:09,410
+value in the form of KVI.
+
+74
+00:06:09,420 --> 00:06:10,020
+Ms.
+
+75
+00:06:10,680 --> 00:06:18,240
+Stepto measure caves, we establish a baseline, a starting point that we will compare to later step
+
+76
+00:06:18,240 --> 00:06:27,810
+three, Celenk Kvas Kevo areas to improve here we are advised to improve the Kvas one or few at a time.
+
+77
+00:06:28,560 --> 00:06:34,710
+Take them for Conduct's practice experiments to improve Kiva's step number five evaluate results.
+
+78
+00:06:36,600 --> 00:06:43,380
+Now, as you can see, I went over the learning so quickly on the popular one exam, I did not see questions
+
+79
+00:06:43,380 --> 00:06:48,900
+related to, for example, you're not expected to know the steps of the learning law, but you are expected
+
+80
+00:06:48,900 --> 00:06:51,810
+to know the key value areas in some of the key measures.
+
+81
+00:06:52,140 --> 00:06:56,410
+You're expected to know that the end goal is not to be agile.
+
+82
+00:06:56,520 --> 00:06:58,140
+The end goal is to deliver value.
+
+83
+00:06:58,380 --> 00:07:01,350
+Agile is, the guide says, is just a means to an end.
+
+84
+00:07:01,890 --> 00:07:07,680
+The end goal is not to implement a practice such as test driven development TDD or using story points
+
+85
+00:07:07,680 --> 00:07:10,140
+or user force or planning or you name it.
+
+86
+00:07:10,380 --> 00:07:13,830
+The main goal is to deliver value both internally.
+
+87
+00:07:14,870 --> 00:07:18,530
+To the team and stakeholders and externally to the end users.
+
+88
+00:07:19,850 --> 00:07:20,600
+A quick recap.
+
+89
+00:07:21,770 --> 00:07:28,280
+According to the event, guys, there are four key areas, current value, time to market, ability
+
+90
+00:07:28,280 --> 00:07:30,250
+to innovate, unrealized value.
+
+91
+00:07:31,470 --> 00:07:39,600
+Each Kevo area kaffiyeh is associated with the volume measures, cavey amps improving performance is
+
+92
+00:07:39,600 --> 00:07:40,890
+an iterative process.
+
+93
+00:07:40,920 --> 00:07:42,200
+It uses a learning loop.
+
+94
+00:07:42,360 --> 00:07:45,650
+We measure the current state, we set performance goals.
+
+95
+00:07:45,780 --> 00:07:50,190
+We do small experiments, and then we measure the results to gauge the effect.
+
+96
+00:07:50,400 --> 00:07:54,720
+Then we do that again and again and again continuously.
+
+97
+00:07:56,440 --> 00:08:02,230
+By now, we have an understanding of what success means, delivering value on time, happy customers,
+
+98
+00:08:02,230 --> 00:08:04,550
+teams and stakeholders in the next election.
+
+99
+00:08:04,570 --> 00:08:08,920
+We'll do a recap of the last four lectures and then we will do a quick quiz.
+
+100
+00:08:08,920 --> 00:08:12,670
+And after that, we'll talk about some wrong measures of success.
+
+101
+00:08:13,210 --> 00:08:16,150
+Thank you for watching and stay purposeful.

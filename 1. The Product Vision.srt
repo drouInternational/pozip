@@ -1,0 +1,295 @@
+1
+00:00:02,800 --> 00:00:05,810
+In this video, we'll talk about the product vision.
+
+2
+00:00:06,220 --> 00:00:12,610
+This topic is quite important for any product owner because they are the people who defined infrequently
+
+3
+00:00:12,610 --> 00:00:13,950
+communicate that vision.
+
+4
+00:00:14,380 --> 00:00:17,770
+A product owner is the chief product visionary.
+
+5
+00:00:17,980 --> 00:00:21,220
+He or she needs to make sure everyone understands the product vision.
+
+6
+00:00:21,460 --> 00:00:25,030
+Do you remember how the Springle guides the development team during the spring?
+
+7
+00:00:25,420 --> 00:00:31,540
+Well, the product vision is quite similar, but on a larger scale it guides the whole swim team towards
+
+8
+00:00:31,540 --> 00:00:35,650
+the end goal, the destination, the place we call success.
+
+9
+00:00:36,440 --> 00:00:39,910
+This program does not talk about product vision, but things from the talk.
+
+10
+00:00:39,910 --> 00:00:42,100
+You will find some resources on the topic.
+
+11
+00:00:42,370 --> 00:00:44,090
+So let's start from the very beginning.
+
+12
+00:00:44,380 --> 00:00:45,910
+What is the product vision?
+
+13
+00:00:45,940 --> 00:00:50,440
+Well, first of all, before we start with, the product development is product owners.
+
+14
+00:00:50,650 --> 00:00:52,910
+We need to answer the question.
+
+15
+00:00:52,930 --> 00:00:54,610
+It's a very important question.
+
+16
+00:00:54,970 --> 00:00:55,540
+Why?
+
+17
+00:00:56,320 --> 00:00:58,200
+What are we going to develop the product?
+
+18
+00:00:58,510 --> 00:00:59,320
+Let's keep it simple.
+
+19
+00:00:59,830 --> 00:01:02,800
+There is a problem in our product is the solution.
+
+20
+00:01:03,580 --> 00:01:09,280
+We cannot provide a good solution if we do not understand the problem on a deep level, and for that
+
+21
+00:01:09,280 --> 00:01:15,700
+reason I'm asking the question why helps us clarify revealed the real problems we are going to solve
+
+22
+00:01:15,760 --> 00:01:16,510
+with our product?
+
+23
+00:01:17,290 --> 00:01:23,350
+We should not be one of those people who jump straight on the solution and do not spend any time understanding
+
+24
+00:01:23,350 --> 00:01:24,550
+that the real problem.
+
+25
+00:01:24,850 --> 00:01:31,740
+So basically, the product vision is a short statement that is focused, clear and easy to understand.
+
+26
+00:01:31,930 --> 00:01:34,560
+It reflects the target audience and their needs.
+
+27
+00:01:34,870 --> 00:01:36,580
+It is emotional, I should say.
+
+28
+00:01:36,580 --> 00:01:37,900
+It can be emotional.
+
+29
+00:01:38,050 --> 00:01:39,360
+It is very persuasive.
+
+30
+00:01:40,120 --> 00:01:44,800
+It focuses on the outcome is if said, the destination we call success.
+
+31
+00:01:45,230 --> 00:01:47,650
+Now let's take a look at the vision of scrub the dog.
+
+32
+00:01:48,670 --> 00:01:55,030
+A world in which all software developers love their work and their customers love working with them,
+
+33
+00:01:55,840 --> 00:01:58,500
+as you can see, it is clear and focused.
+
+34
+00:01:58,540 --> 00:02:00,590
+The work love appears twice.
+
+35
+00:02:01,000 --> 00:02:02,340
+So, yes, it is emotional.
+
+36
+00:02:02,350 --> 00:02:04,610
+I find it very inspiring.
+
+37
+00:02:05,020 --> 00:02:10,120
+Obviously, that's a company vision and not a product vision, but still it gives us an idea.
+
+38
+00:02:10,750 --> 00:02:12,310
+Let's take a look at another example.
+
+39
+00:02:12,310 --> 00:02:13,100
+Spotify.
+
+40
+00:02:13,450 --> 00:02:14,580
+I love their product.
+
+41
+00:02:14,890 --> 00:02:21,610
+We envision a cultural platform where professional creators can break free of their medium's constraints
+
+42
+00:02:21,760 --> 00:02:28,360
+and where everyone can enjoy an immersive or artistic experience that enables us to empathize with each
+
+43
+00:02:28,360 --> 00:02:31,670
+other and to feel part of a greater whole.
+
+44
+00:02:32,470 --> 00:02:35,530
+It's not a very short but nice vision anyway.
+
+45
+00:02:35,980 --> 00:02:41,620
+He will not be given a vision statement when your example of people wanting to determine which one is
+
+46
+00:02:41,620 --> 00:02:42,930
+good and which one is bad.
+
+47
+00:02:43,540 --> 00:02:46,960
+What you need to understand, however, here is the concept.
+
+48
+00:02:47,950 --> 00:02:54,100
+Now, as a product owner, it is your responsibility to communicate the vision of the product, not
+
+49
+00:02:54,100 --> 00:03:00,990
+just not just with the Scrum team, this promising development, but also to the stakeholders.
+
+50
+00:03:01,300 --> 00:03:05,860
+And this is not something we do once at the beginning of the project of the product development, for
+
+51
+00:03:05,860 --> 00:03:10,720
+example, nor the product owner should communicate the vision frequently.
+
+52
+00:03:11,290 --> 00:03:13,590
+He or she can use this from events to do so.
+
+53
+00:03:13,780 --> 00:03:19,120
+For example, spring planning is a great opportunity to remind the team about the product vision, but
+
+54
+00:03:19,120 --> 00:03:24,700
+also a spring preview because key stakeholders participate in the meeting as well as you remember.
+
+55
+00:03:24,940 --> 00:03:29,340
+Also, you know, that's French retrospective is about the way we do things.
+
+56
+00:03:29,770 --> 00:03:35,440
+So it would be correct if we also discussed the way we communicate the product vision, for example,
+
+57
+00:03:35,570 --> 00:03:43,090
+besides talking about it sometimes before we have it written and place it somewhere that's visible in
+
+58
+00:03:43,090 --> 00:03:43,930
+the visible place.
+
+59
+00:03:44,200 --> 00:03:46,870
+Having a product vision also creates transparency.
+
+60
+00:03:47,200 --> 00:03:54,970
+Everyone on the team has a common understanding of why we are building the product and and of course,
+
+61
+00:03:54,970 --> 00:03:56,050
+the customer needs.
+
+62
+00:03:56,050 --> 00:04:01,470
+Having said that, the whole strong team, not just the product owner, has to have an idea and they
+
+63
+00:04:01,480 --> 00:04:08,120
+have to know how the product earns revenue and they have to know the needs of the end users.
+
+64
+00:04:08,860 --> 00:04:10,300
+OK, time to recap.
+
+65
+00:04:11,940 --> 00:04:14,790
+The product owner is the chief product visionary.
+
+66
+00:04:15,390 --> 00:04:20,500
+The first thing the product owner does when starting a new product is defining the product.
+
+67
+00:04:21,600 --> 00:04:26,510
+The protocol communicates the product vision often to the team and stakeholders.
+
+68
+00:04:27,260 --> 00:04:32,600
+This prevents, besides leaks from or great opportunities for the product owner to remind the team and
+
+69
+00:04:32,610 --> 00:04:34,320
+stakeholders about the product vision.
+
+70
+00:04:36,130 --> 00:04:40,810
+The product vision increases transparency and it gives some direction to all Sprint's.
+
+71
+00:04:41,940 --> 00:04:48,540
+The product vision is focused, clear, easy to understand, it reflects the target audience in their
+
+72
+00:04:48,540 --> 00:04:51,240
+needs, it can be emotional and persuasive.
+
+73
+00:04:52,390 --> 00:04:56,770
+OK, in the next video, we'll talk about another important topic value.
+
+74
+00:04:57,070 --> 00:04:59,260
+Thank you for watching and stay purposeful.
